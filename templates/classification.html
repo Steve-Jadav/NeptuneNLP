@@ -1,0 +1,73 @@
+{% extends "base.html" %} <!-- Jinja Template-Inheritance -->
+
+{% block content %}
+
+<center>
+	<div class="card text-center text-dark bg-white mb-3" style="max-width: 19rem;">
+	  <div class="card-header">How To?</div>
+	  <div class="card-body">
+	    <h5 class="card-title">Classify Errors</h5>
+	    <p class="card-text">To get started, upload a text document and wait for a moment
+	    while we process the results.</p>
+
+	    <!-- This form will be used to submit the file to the server side Python script. -->
+	    <form action="{{ url_for('classification_html') }}" method="POST" enctype="multipart/form-data">
+		    <input type="file" name="fileInput" id="file-input" hidden="hidden"/>
+	 	    <input type="button" id="browse" value="Browse" class="btn btn-dark btn-sm" style="margin-bottom: 0.4rem;"> <br>
+		    <span id="file-text">
+			    {% if message %}
+			    	{{message}}
+			    {% else %}
+			    	No file chosen yet
+			    {% endif %}
+		    </span>	<br>
+			<input type="submit" id="processButton" value="Process" class="btn btn-dark btn-sm" style="margin-top: 0.5rem;"> <br>
+		</form>
+
+
+	  </div>
+	</div>
+</center>
+
+<br> <hr>
+<center>
+	<div class="results">
+		<span>
+			{% if data %}
+				{{data}}
+			{% endif %}
+		</span>
+	</div>
+
+	<div class="wordcloud"></div>
+</center>
+
+
+ <script type="text/javascript">
+
+ 	// This script is used to trigger the browse window function on browse button click.
+
+	const hiddenButton = document.getElementById("file-input");
+	const browseButton = document.getElementById("browse");
+	const processButton = document.getElementById("processButton");
+	const fileText = document.getElementById("file-text");
+
+	// Disable the process button. Change its state only when a file is selected.
+	processButton.disabled = true;
+
+	browseButton.addEventListener("click", function() {
+		hiddenButton.click();
+	});
+
+	// This function is used to display the selected file name.
+	hiddenButton.addEventListener("change", function() {
+		if (hiddenButton.value) {
+			fileText.innerHTML = hiddenButton.value.match(/[\/\\]([\w\d\s\.\-\(\)]+)$/)[1];
+			processButton.disabled = false;
+		}
+	});
+
+</script>
+
+
+{% endblock %}

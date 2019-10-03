@@ -1,0 +1,86 @@
+{% extends "base.html" %} <!-- Jinja Template Inheritance -->
+
+{% block content %}
+
+<!-- Custom CSS for this page -->
+<link type="text/css" rel="stylesheet" href="../static/css/force.css">
+
+<!-- Required D3.js script for this page-->
+<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"> </script>
+
+<br> <br> <br>
+<div class="flex-header">
+<div class="column1">1998-2004 Visualization</div>
+<div class="column2">2005-2010 Visualization</div>
+</div>
+
+<div class="color-coding">
+    <div class="sup_roles" style="margin-bottom: -5px;"></div>
+    <div class="sup">: Supervisor and similar roles</div>
+    <div class="other_roles" style="margin-bottom: -5px;"></div>
+    <div class="other">: Rest of the roles</div>
+</div>
+
+
+<div class="flex-container">
+    <div class="region">
+        Region 1
+    </div>
+    <div class="column">
+        <svg width="550" height="350" id="svg1"></svg>
+        <script type="text/javascript" src="../static/js/force.js"></script>
+    </div>
+    <div class="column-bg-alt">
+        <svg width="550" height="350" id="svg1_new"></svg>
+        <script type="text/javascript" src="../static/js/force_new.js"></script>
+    </div>
+</div>
+
+
+<div class="flex-container">
+    <div class="region">
+        Region 2
+    </div>
+    <div class="column">
+        <svg width="550" height="350" id="svg2"></svg>
+        <script type="text/javascript" src="../static/js/force2.js"></script>
+    </div>
+    <div class="column-bg-alt">
+        <svg width="550" height="350" id="svg2_new"></svg>
+        <script type="text/javascript" src="../static/js/force2_new.js"></script>
+    </div>
+</div>
+
+
+<div class="flex-container">
+    <div class="region">
+        Region 3
+    </div>
+    <div class="column">
+        <svg width="550" height="350" id="svg3"></svg>
+        <script type="text/javascript" src="../static/js/force3.js"></script>
+    </div>
+    <div class="column-bg-alt">
+        <svg width="550" height="350" id="svg3_new"></svg>
+        <script type="text/javascript" src="../static/js/force3_new.js"></script>
+    </div>
+
+</div>
+
+
+<div class="flex-container">
+    <div class="region">
+        Region 4
+    </div>
+    <div class="column">
+        <svg width="550" height="350" id="svg4"></svg>
+        <script type="text/javascript" src="../static/js/force4.js"></script>
+    </div>
+    <div class="column-bg-alt">
+        <svg width="550" height="350" id="svg4_new"></svg>
+        <script type="text/javascript" src="../static/js/force4_new.js"></script>
+    </div>
+</div>
+
+
+{% endblock %}

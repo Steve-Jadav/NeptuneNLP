@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+/* Common CSS */
+body{
+	overflow-x: hidden;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+
+.navbar{
+	background: rgba(0, 0, 0, 0.9) !important;
+	font-weight: 10;
+	font-size: 1.02rem;
+	letter-spacing: 0.02rem;
+}
+
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+}
+
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+	color: #1ebba3;
+}
+
+
+/* Used in classification.html */
+.card {
+	margin-top: 5rem;
+}
+
+#file-text{
+	font-size: 0.9rem;
+	color: #aaa;
+}

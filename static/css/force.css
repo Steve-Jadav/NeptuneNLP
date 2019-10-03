@@ -1,0 +1,132 @@
+/* This file is used to style the network analysis page. */
+
+.flex-header{
+	overflow-x: hidden;
+	overflow-wrap: hidden;
+	width: 100%;
+	height: 50px;
+	margin: 0 auto;
+	text-align:center;
+	align-items: center;
+	background-color:rgba(0, 0, 0, 0.9);
+	display: -webkit-flex; /* Safari */
+	display: flex; /* Standard syntax */
+}
+.flex-header .column1{
+	padding: 10px;
+	text-align:center;
+	color:white;
+	font-weight:10;
+	display: inline-block;
+	-webkit-flex: 1; /* Safari */
+	-ms-flex: 1; /* IE 10 */
+	flex: 1; /* Standard syntax */
+}
+.flex-header .column2{
+    padding: 10px;
+    text-align:center;
+    color:white;
+	font-weight:10;
+	display: inline-block;
+	-webkit-flex: 1; /* Safari */
+	-ms-flex: 1; /* IE 10 */
+	flex: 1; /* Standard syntax */
+}
+
+.color-coding{
+    padding: 10px;
+    width: 100%;
+
+	text-align: center;
+	align-items: center;
+}
+.color-coding .sup_roles {
+    height: 25px;
+    width: 25px;
+    margin-bottom: -5px auto;
+    background-color: red;
+    border-radius: 50%;
+    text-align:center;
+    align-items: center;
+    display: inline-block;
+}
+
+.color-coding .other_roles {
+    height: 25px;
+    width: 25px;
+    margin-bottom: -5px auto;
+    background-color: blue;
+    border-radius: 50%;
+    text-align:center;
+    align-items: center;
+    display: inline-block;
+}
+
+.color-coding .sup{
+    padding: 10px;
+	display: inline-block;
+	text-align:center;
+    align-items: center;
+}
+
+.color-coding .other{
+    padding: 10px;
+	display: inline-block;
+	text-align:center;
+    align-items: center;
+}
+
+.flex-container{
+	width: 100%;
+	min-height: 400px;
+	margin: 0 auto;
+	text-align: center;
+	display: -webkit-flex; /* Safari */
+	display: flex; /* Standard syntax */
+    align-items: center;
+}
+
+.region{
+	padding: 10px;
+	width:100px;
+	height:100%
+	float:left;
+	font-weight:bold;
+	background-color:#1ebba3;
+}
+
+.flex-container .column{
+	padding: 10px;
+	display: inline;
+	width:50%;
+	float:left;
+	border: 1px dotted black;
+	-webkit-flex: 1; /* Safari */
+	-ms-flex: 1; /* IE 10 */
+	flex: 1; /* Standard syntax */
+}
+
+.flex-container .column-bg-alt{
+    padding: 10px;
+    display: inline;
+    width:50%;
+    float:left;
+    border: 1px dotted black;
+	-webkit-flex: 1; /* Safari */
+	-ms-flex: 1; /* IE 10 */
+	flex: 1; /* Standard syntax */
+}
+
+.nodes circle {
+    cursor: pointer;
+    fill: #8423c6;
+    stroke: #000;
+    stroke-width: .5px;
+}
+
+.links line {
+    fill: none;
+    stroke: #9ecae1;
+    stroke-width: .5px;
+
+}
