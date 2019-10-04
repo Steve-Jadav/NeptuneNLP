@@ -1,17 +1,19 @@
 import os
 import pandas as pd
 import numpy as np
-from IR_text_viz.class_prim import *
+from class_prim import *
 pd.set_option('display.expand_frame_repr', False)
 import matplotlib.pyplot as plt
 from nltk import sent_tokenize
-from IR_text_viz.lstm_model import *
+from lstm_model import *
 
 
 
-class preprocess:
-    
+class Preprocess:
+
     def __init__(self, path, process_path = 'proc'):
+
+        # DOUBT: What is process_path?
         self.path = path
         self.process_path = process_path
 
@@ -85,4 +87,3 @@ class preprocess:
 # p = preprocess('data')
 # p.getTrainingData()
 # p.getTestData()
-

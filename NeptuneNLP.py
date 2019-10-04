@@ -1,5 +1,5 @@
 """
-This is the root python file used to launch the application.
+This is the root Python file used to launch the application.
 """
 
 # Required libraries
@@ -8,12 +8,15 @@ from werkzeug import secure_filename
 import os
 
 # Custom Python code
-from test import getContent
+from test import get_file_content
+from views import Views
 
-UPLOAD_FOLDER = "static/uploads"
-
+# Instantiate flask app
 app = Flask(__name__)
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+# Load the configuration file
+app.config.from_object('config.Config')
+
 
 
 """
@@ -23,7 +26,7 @@ be the home page of the application.
 """
 
 @app.route("/")
-@app.route("/neptunenlp")
+@app.route("/neptune")
 @app.route("/home")
 @app.route("/summarization")
 def summarization_html():
@@ -37,12 +40,13 @@ def classification_html():
 
 		if request.files:
 
-			inputFile = request.files["fileInput"]
-			filePath = os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(inputFile.filename))
-			inputFile.save(filePath)
-			data = getContent(filePath)
+			input_file = request.files["fileInput"]
+			file_path = os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(input_file.filename))
+			input_file.save(file_path)
+			data = get_file_content(file_path = file_path)
 
 			# Call the IR_Text_viz related methods at this point.
+			Views.get_context(file_path)
 
 			return render_template('classification.html', title='Classification',
 									message='File processed', data=data)
@@ -68,4 +72,4 @@ def page_not_found(e):
 
 
 if __name__ == "__main__":
-	app.run(debug=True) 	# To run the application in debug mode.
+	app.run(debug=app.config['DEBUG'], port=app.config['PORT'])
