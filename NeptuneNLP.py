@@ -8,7 +8,6 @@ from werkzeug import secure_filename
 import os
 
 # Custom Python code
-from test import get_file_content
 from views import Views
 
 # Instantiate flask app
@@ -43,10 +42,10 @@ def classification_html():
 			input_file = request.files["fileInput"]
 			file_path = os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(input_file.filename))
 			input_file.save(file_path)
-			data = get_file_content(file_path = file_path)
 
-			# Call the IR_Text_viz related methods at this point.
-			Views.get_context(file_path)
+			views = Views()
+			data = views.get_file_content(file_path = file_path)
+			views.get_context(file_path=file_path)
 
 			return render_template('classification.html', title='Classification',
 									message='File processed', data=data)
