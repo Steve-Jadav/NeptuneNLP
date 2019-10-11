@@ -2,6 +2,10 @@
 
 {% block content %}
 
+<!-- Custom CSS for this page -->
+<link type="text/css" rel="stylesheet" href="../static/css/textViewer.css">
+
+
 <center>
 	<div class="card text-center text-dark bg-white mb-3" style="max-width: 19rem;">
 	  <div class="card-header">How To?</div>
@@ -24,23 +28,43 @@
 			<input type="submit" id="processButton" value="Process" class="btn btn-dark btn-sm" style="margin-top: 0.5rem;"> <br>
 		</form>
 
-
 	  </div>
 	</div>
 </center>
 
 <br> <hr>
-<center>
-	<div class="results">
-		<span>
-			{% if data %}
-				{{data}}
-			{% endif %}
-		</span>
-	</div>
 
-	<div class="wordcloud"></div>
-</center>
+
+<!-- This part is used to display the results of error classification. -->
+<div style="float: left; width:74%; padding:10px; height: 100vh; overflow: auto; background-color:#E3E6F7;">
+
+	{% if data %}
+		{% for dict in data['data'] %}
+				{% for key, value in dict.items() %}
+							<span class = {{ value.class }}> {{value.text}} </span>
+				{% endfor %}
+				<br/>
+		{% endfor %}
+	{% endif %}
+
+</div>
+
+
+<!-- This part is used to display the word cloud for the types of errors. -->
+<div id="word-cloud" style="float:right; width: 25%; height: 100vh; background-color:#e3e6f7;">
+
+		{% if data %}
+	    <script>
+	        var data = "{{data['classes']|safe}}"
+	    </script>
+
+			<!-- Custom javascript file required for the wordcloud section of this page.
+		 			 The above defined 'data' var is used inside the wordcloud.js file. -->
+			<script type="text/javascript" src="../static/js/wordcloud.js"> </script>
+
+		{% endif %}
+
+</div>
 
 
  <script type="text/javascript">

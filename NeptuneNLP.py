@@ -7,8 +7,8 @@ from flask import Flask, render_template, request, redirect, url_for
 from werkzeug import secure_filename
 import os
 
-# Custom Python code
-from views import Views
+# Custom Python class
+from IR_Text_Viz.views import Views
 
 # Instantiate flask app
 app = Flask(__name__)
@@ -43,15 +43,18 @@ def classification_html():
 			file_path = os.path.join(app.config['UPLOAD_FOLDER'], secure_filename(input_file.filename))
 			input_file.save(file_path)
 
-			views = Views()
-			data = views.get_file_content(file_path = file_path)
-			views.get_context(file_path=file_path)
+			views = Views(file_path=file_path)
+			data: dict = views.get_context()
+
+			""" data is a dictionary and it has 2 keys: 'data' and 'classes'
+			'data' is a list of dictionaries
+			'classes' is a pure dictionary """
 
 			return render_template('classification.html', title='Classification',
 									message='File processed', data=data)
 			#return redirect(url_for('classification_html', data=data))
 
-	return render_template('classification.html', title='Classification', message=None, data=None)
+	return render_template('classification.html', title='Classification')
 
 
 @app.route("/networkanalysis")
@@ -71,4 +74,4 @@ def page_not_found(e):
 
 
 if __name__ == "__main__":
-	app.run(debug=app.config['DEBUG'], port=app.config['PORT'])
+	app.run(debug = app.config['DEBUG'], port = app.config['PORT'])
