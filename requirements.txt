@@ -1,0 +1,15 @@
+# Scientific computing
+pandas==
+numpy==
+networkx==
+
+# Deep Learning
+keras==
+tensorflow==
+nltk==
+
+# Web application
+flask==
+
+# Data Visualization
+matplotlib==
