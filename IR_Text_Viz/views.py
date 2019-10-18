@@ -39,8 +39,11 @@ class Views(object):
             total += len(group)
             classes[key] = len(group)
 
+        # Todo: Cap the values for classes[x] somewhere in this range [1, 27]
         for x in classes:
-            classes[x] = classes[x] * 100 / total
+            print ('classes[x]: ', classes[x])
+            classes[x] = (classes[x] * 100 / total)/1.7
+            print (classes[x])
 
         context = {'data': data, 'classes': classes}
         filehandler = open('context.pkl', 'wb')

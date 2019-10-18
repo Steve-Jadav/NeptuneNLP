@@ -1,5 +1,8 @@
+/* This script is used to generate the wordcloud on the classification page. */
 
+// TO-DO: REDUCE THE SIZES OF THE CLASSES IN THE WORDCLOUD
 /*  ======================= SETUP ======================= */
+
 var config = {
     trace: true,
     spiralResolution: 1, //Lower = better resolution
@@ -7,13 +10,12 @@ var config = {
     lineHeight: 0.8,
     xWordPadding: 0,
     yWordPadding: 3,
-    font: "sans-serif"
+    font: 'sans-serif'
 }
 
 var arr = data;
 
 //console.log(typeof (arr))
-
 
 var words = [];
 var a = arr.split(',')
@@ -50,6 +52,7 @@ for(i=0;i<a.length;i++) {
 // })
 
 
+
 words.sort(function(a, b) {
     return -1 * (a.freq - b.freq);
 });
@@ -80,7 +83,7 @@ var wordsDown = [];
 function createWordObject(word, freq) {
     var wordContainer = document.createElement("div");
     wordContainer.style.position = "absolute";
-    wordContainer.style.fontSize = freq + 10 + "px";
+    wordContainer.style.fontSize = freq/4 + "px";
     wordContainer.style.lineHeight = config.lineHeight;
 //    wordContainer.style.transform = "translateX(-50%) translateY(-50%)"
     switch (word){
@@ -116,8 +119,8 @@ function createWordObject(word, freq) {
     return wordContainer;
 }
 
-function placeWord(word, x, y) {
 
+function placeWord(word, x, y) {
     cloud.appendChild(word);
     word.style.left = x - word.offsetWidth/2 + "px";
     word.style.top = y - word.offsetHeight/2 + "px";
@@ -140,7 +143,6 @@ function spiral(i, callback) {
 
 function intersect(word, x, y) {
     cloud.appendChild(word);
-
     word.style.left = x - word.offsetWidth/2 + "px";
     word.style.top = y - word.offsetHeight/2 + "px";
 

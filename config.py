@@ -5,5 +5,5 @@ class Config(object):
     """
 
     DEBUG = True
-    PORT = 3001
+    PORT = 5000
     UPLOAD_FOLDER = "static/uploads"

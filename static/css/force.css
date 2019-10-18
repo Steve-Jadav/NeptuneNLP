@@ -1,41 +1,56 @@
+/* This css is used to style the networkanalysis page. */
+
+
 .flex-header{
-	width: 100%;
-	height: 50px;
-	margin: 0 auto;
+	overflow: auto;
+	height: 2.5rem;
+	margin-top: 3.5rem;
 	text-align:center;
 	align-items: center;
-	background-color:#0074D9;
+	background-color:#2E2F51;
+	opacity: 0.9;
 	display: -webkit-flex; /* Safari */
 	display: flex; /* Standard syntax */
 }
+
 .flex-header .column1{
 	padding: 10px;
 	text-align:center;
 	color:white;
-	font-weight:bold;
+	font-weight:3rem;
 	display: inline-block;
 	-webkit-flex: 1; /* Safari */
 	-ms-flex: 1; /* IE 10 */
 	flex: 1; /* Standard syntax */
 }
+
 .flex-header .column2{
     padding: 10px;
     text-align:center;
     color:white;
-	font-weight:bold;
-	display: inline-block;
-	-webkit-flex: 1; /* Safari */
-	-ms-flex: 1; /* IE 10 */
-	flex: 1; /* Standard syntax */
+		font-weight:3rem;
+		display: inline-block;
+		-webkit-flex: 1; /* Safari */
+		-ms-flex: 1; /* IE 10 */
+		flex: 1; /* Standard syntax */
+}
+
+.card {
+	max-width: 100rem;
+	margin-top: .5rem;
+}
+
+.card-body{
+	padding: 0rem;
 }
 
 .color-coding{
     padding: 10px;
     width: 100%;
-
-	text-align: center;
-	align-items: center;
+		text-align: center;
+		align-items: center;
 }
+
 .color-coding .sup_roles {
     height: 25px;
     width: 25px;
@@ -94,15 +109,15 @@
 
 .color-coding .sup{
     padding: 10px;
-	display: inline-block;
-	text-align:center;
+		display: inline-block;
+		text-align:center;
     align-items: center;
 }
 
 .color-coding .other{
     padding: 10px;
-	display: inline-block;
-	text-align:center;
+		display: inline-block;
+		text-align:center;
     align-items: center;
 }
 
@@ -113,16 +128,17 @@
 	text-align: center;
 	display: -webkit-flex; /* Safari */
 	display: flex; /* Standard syntax */
-    align-items: center;
+  align-items: center;
 }
 
 .region{
-	padding: 10px;
-	width:100px;
-	height:100%
+	padding: 8px;
+	width:5rem;
+	height:100%;
 	float:left;
-	font-weight:bold;
-	background-color:#FF851B;
+	font-weight:3rem;
+	color: white;
+	background-color:black;
 }
 
 .flex-container .column{
@@ -142,10 +158,11 @@
     width:50%;
     float:left;
     border: 1px dotted black;
-	-webkit-flex: 1; /* Safari */
-	-ms-flex: 1; /* IE 10 */
-	flex: 1; /* Standard syntax */
+		-webkit-flex: 1; /* Safari */
+		-ms-flex: 1; /* IE 10 */
+		flex: 1; /* Standard syntax */
 }
+
 
 .nodes circle {
     cursor: pointer;
@@ -158,6 +175,4 @@
     fill: none;
     stroke: #9ecae1;
     stroke-width: .5px;
-
 }
-
