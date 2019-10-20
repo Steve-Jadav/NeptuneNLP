@@ -1,0 +1,159 @@
+June 7, 2000
+
+Mr. L. W. Myers Senior Vice President Post Office Box 4 FirstEnergy Nuclear Operating Company Shippingport, Pennsylvania 15077 SUBJECT: NRC'S BEAVER VALLEY INSPECTION REPORT 05000334/2000-004; 05000412/2000-004
+
+Dear Mr. Myers: On May 13, 2000, the NRC completed an inspection at the Beaver Valley 1 & 2 reactor facilities. The enclosed report presents the results of that inspection. The results of this inspection were discussed on May 19, 2000, with Mr. K. Ostrowski and other members of your staff. This inspection was an examination of activities conducted under your license as they relate to safety and compliance with the Commission's rules and regulations and with the conditions of your license. Within these areas, the inspection consisted of a selected examination of procedures and representative records, observations of activities, and interviews with personnel. Based on the results of this inspection, the NRC identified two findings that were evaluated under the risk significance determination process and were determined to be of very low safety significance (Green). These issues have been entered into your corrective action program and are discussed in the summary of findings and in the body of the enclosed inspection report. No violations of NRC requirements were identified with these findings. In accordance with 10 CFR 2.790 of the NRC's "Rules of Practice," a copy of this letter and its enclosure will be placed in the NRC Public Document Room and will be available on the NRC Public Electronic Reading Room (PERR) link at the NRC home page, http://www.nrc.gov/NRC/ADAMS/index.html.
+
+Mr. L. W. Myers
+
+2
+
+We appreciate your cooperation. Please contact me at 610 337-5146 if you have any questions regarding this letter. Sincerely,
+
+/RA/
+John F. Rogge, Chief Projects Branch No. 7 Division of Reactor Projects Docket Nos.: 05000334; 05000412 License Nos: DPR-66, NPF-73 Enclosure: Inspection Report 05000334/2000-004; 05000412/2000-004
+
+cc w/encl: K. Ostrowski, Plant General Manager R. Fast, Director, Plant Maintenance F. von Ahn, Director, Plant Engineering R. Donnellon, Director, Projects and Scheduling M. Pearson, Director, Plant Services W. Pearce, Manager, Operations T. Cosgrove, Manager, Licensing J. A. Hultz, Manager, Projects and Support Services, FirstEnergy M. Clancy, Mayor, Shippingport, PA Commonwealth of Pennsylvania State of Ohio State of West Virginia
+
+Mr. L. W. Myers Distribution w/encl: Region I Docket Room (with concurrences) Nuclear Safety Information Center (NSIC) NRC Resident Inspector H. Miller, RA/J. Wiggins, DRA J. Rogge, DRP N. Perry, DRP B. Platchek, DRP J. Shea, OEDO E. Adensam, PD1, NRR F. Peterson, NRR D. Collins, NRR V. Nerses, NRR W. Scott, NRR Inspection Program Branch, NRR (IPAS)
+
+3
+
+DOCUMENT NAME: C:\BV200004.wpd After declaring this document "An Official Agency Record" it will be released to the Public.
+To receive a copy of this document, indicate in the box: "C" = Copy without attachment/enclosure "E" = Copy with attachment/enclosure "N" = No copy
+
+OFFICE RI/DRP NAME Kern DATE 06/07/00
+
+E RI/DRP
+Rogge
+
+E
+
+/ 06/ /00
+
+06/07/00 06/ /00 OFFICIAL RECORD COPY
+
+U. S. NUCLEAR REGULATORY COMMISSION REGION I Docket Nos. License Nos. 05000334, 05000412 DPR-66, NPF-73
+
+Report Nos.
+
+05000334/2000-004, 05000412/2000-004
+
+Licensee:
+
+FirstEnergy Nuclear Operating Company
+
+Facility:
+
+Beaver Valley Power Station, Units 1 and 2
+
+Location:
+
+Post Office Box 4 Shippingport, PA 15077
+
+Dates:
+
+April 2, 2000 through May 13, 2000
+
+Inspectors:
+
+D. Kern, Senior Resident Inspector G. Dentel, Resident Inspector G. Wertz, Resident Inspector J. Rogge, Chief Projects Branch 7
+
+Approved by:
+
+SUMMARY OF FINDINGS Beaver Valley Power Station, Units 1 & 2 NRC Inspection Report 05000334/2000-004 & 05000412/2000-004 The report covered a 6-week period of resident inspections. The safety significance of issues is indicated by their color (green, white, yellow, red) and was determined by the Significance Determination Process (SDP) in Inspection Manual Chapter 0609 (see Attachment 1) Cornerstone: Initiating Events · GREEN. Inadequate maintenance on an auxiliary steam pressure control valve resulted in failure of the valve and a subsequent Unit 1 manual reactor trip due to degraded condenser vacuum. The finding was determined to have very low safety significance because mitigating equipment was not affected by the event and condenser vacuum was restored shortly after the reactor trip. (Section 4OA3)
+
+Cornerstone: Mitigating Systems · GREEN. Poor communication and understanding of operational limits resulted in degraded service water flow to the Unit 2 "A" high head safety injection pump lube oil cooler not being evaluated nor entered into the corrective action program in a timely manner. This finding was determined to have very low risk significance because a subsequent evaluation demonstrated that the pump remained operable. (Section 1R15)
+
+ii
+
+Report Details SUMMARY OF PLANT STATUS: Unit 1 began this inspection period in cold shutdown for the 13th refueling outage. The unit achieved criticality and was connected to the offsite transmission system on April 7, 2000. The unit was disconnected from the transmission system for turbine overspeed trip testing on April 8 and again for additional turbine maintenance on April 9. On April 10, the unit was reconnected to the transmission system and achieved full power operation on April 17. However, due to low condenser vacuum, the unit was manually tripped at 1:09 p.m. This plant trip was considered uncomplicated and will be counted in the unplanned scrams performance indicator. The unit was restarted and connected to the transmission system on April 18. The unit achieved full power on April 20 and remained at or near full power the remainder of the period except for a power reduction to 60 percent on April 23 to perform maintenance on the "A" main feedwater pump. Unit 2 began this inspection period at 100 percent power. The unit remained at or near full power except for a power reduction to 50 percent on April 29 to conserve fuel. Subsequently, the unit was reduced further to 40 percent to perform corrective maintenance on the "A" heater drain pump. 1. REACTOR SAFETY Cornerstone: Initiating Events, Mitigating Systems, Barrier Integrity
+
+1R04 Equipment Alignments .1 a. Reactor Protection System Inspection Scope The inspectors performed a partial system walkdown of the Unit 1 reactor protection system (RPS) prior to and during the Unit 1 startup from a refueling outage. The inspectors reviewed protective instrument bistable alignments, reactor trip breaker alignment and test records, and observed operators monitor various plant parameters which provide inputs to the RPS. During a reactor startup in 1998, operators placed an RPS instrument bistable in the trip position without fully understanding the effect on RPS trip setpoints, which led to an unintended reactor trip. The inspectors evaluated selected corrective actions from the 1998 event. b. Issues and Findings There were no findings identified. .2 a. High Head Safety Injection System Inspection Scope The inspectors performed a partial system walkdown of the Unit 2 high head safety injection (HHSI) system. The inspectors reviewed the valve lineup after restoration from maintenance on the HHSI system. b. Issues and Findings
+
+2 There were no findings identified. 1R05 Fire Protection a. Inspection Scope The inspectors observed conditions in the Unit 1 and 2 control rooms, Unit 1 cable spreading area and primary auxiliary building (735'), and Unit 2 cable tunnel. Specific fire protection conditions examined included control of transient combustibles, material condition of fire protection equipment, and the adequacy of any fire impairments and compensatory measures. b. Issues and Findings There were no findings identified. 1R13 Maintenance Risk Assessment and Emergent Work Evaluation a. Inspection Scope The inspectors reviewed the maintenance risk assessment and emergent work control for the following Unit 1 equipment removed from service: · Unplanned removal from service of the 1B system station service transformer to replace a gasket which had developed an oil leak. Unplanned power reduction to 60 percent for removal from service of the 1A feedwater pump to repair an oil leak on a threaded connection on the inboard bearing supply piping. Unplanned removal from service of the 9A auxiliary river water pump to correct a problem with the pump packing. The packing follower was rubbing on the pump shaft causing the packing to overheat.
+
+·
+
+·
+
+b.
+
+Issues and Findings There were no findings identified.
+
+1R14 Personnel Performance During Non-routine Plant Evolutions a. Inspection Scope The inspectors reviewed operator performance during the April 17 manual reactor trip (See Section 4OA3 for additional information). The inspectors examined operator logs, equipment response, sequence of events recorder logs, and alarm response procedures to determine if operators performed the appropriate actions in accordance with their training and procedures. b. Issues and Findings
+
+3 There were no findings identified. 1R15 Operability Evaluations a. Inspection Scope The inspectors reviewed the operability determination of the Unit 2 "A" HHSI pump associated with low service water flow to the HHSI lube oil cooler. The service water flow dropped from 28 gallons per minute (gpm) to 19 gpm during an 8-hour period on April 9. During routine log readings, the non-licensed operator identified the drop, informed the assistant nuclear shift supervisor (ANSS), and adjusted a flow control valve, which raised flow to 32 gpm. The 19 gpm flow was below the prescribed operational range (25 to 50 gpm). b. Issues and Findings An operability evaluation was performed which demonstrated that the "A" HHSI pump was operable with the lower service water flow due to the low river water temperature, which enhanced heat transfer. The inspectors identified cross cutting issues associated with the drop of the service water flow. An operability evaluation was not performed, the issue (drop in service water flow) was not entered into the corrective action system, and an evaluation of the cause of the drop was not performed until the inspectors questioned operators on April 10. Poor communication and understanding of the operational limits were causes of the lack of an operability evaluation and use of the corrective action system. The issue was subsequently entered into the corrective action system as condition report (CR) 001478. This issue was considered to have very low risk significance (GREEN) using the SDP phase 1 evaluation, since the equipment was determined to be operable. However, this issue is of concern because of the potential for a significant component to be inoperable under different circumstances. Had this reduced service water flow occurred during a period where the river water temperature was higher, the HHSI pump could have been inoperable. 1R20 Refueling and Outage Activities a. Inspection Scope The inspectors observed the restart of Unit 1 focusing on the initial approach to criticality following refueling. The inspectors verified that the reactor coolant system leakage and containment integrity were acceptable for restart. The inspectors reviewed the startup physics testing completed during the initial approach to criticality. b. Issues and Findings There were no findings identified.
+
+4 1R22 Surveillance Testing a. Inspection Scope The inspectors reviewed the adequacy of and observed portions of the following operational surveillance tests (OST): + + + b. 1OST-24.9 2OST-21.1/2/3 2OST-7.4 Turbine-Driven Auxiliary Feedwater Pump [1FW-P-2] Operability Test, Rev. 20 Main Steam Isolation Valve [2MSS*AOV101A/B/C] Partial Closure Test, Rev. 2 Centrifugal Charging Pump [2CHS*P21A], Rev. 14
+
+Issues and Findings There were no findings identified.
+
+4.
+
+OTHER ACTIVITIES [OA]
+
+4OA2 Identification and Resolution of Problems Issues regarding the identification and resolution of problems were identified and described in Section 1R15 of this report. 4OA3 Event Follow-up (Closed) Licensee Event Report (LER) 05000334/2000-005: Manual Reactor Trip in Response to Degraded Condenser Vacuum. a. Inspection Scope On April 17, 2000, operators manually tripped Unit 1 due to degrading condenser vacuum. The degraded condenser vacuum was caused by inadequate steam supply to the condenser air ejectors due to the auxiliary steam pressure control valve (PCV-1AS100) failing closed. Operators restored condenser vacuum shortly after the reactor trip which restored the ability to remove heat from the reactor to the condenser. The inspectors reviewed operator response (see Section 1R14) and determination of the cause of the reactor trip.
+
+5 b. Issues and Findings The auxiliary steam pressure control valve failed in the closed position due to actuator packing nut disengagement which resulted in loss of actuator air pressure. The cause was attributed to inadequate maintenance on the valve during the recently completed refueling outage. Specifically, during a valve overhaul, an instrumentation and controls technician did not ensure adequate thread engagement of the actuator packing nut. Corrective actions included counseling the technician, and further evaluation of the procedure and technician training. The inspectors determined that this event was Green (very low safety significance). The reactor trip was assessed as having very low safety significance because mitigating equipment was not affected by the event. This event was entered into the corrective action system as CR 00-1541. The auxiliary steam system is not a safety-related system, and procedures governing maintenance on this system do not fall under the purview of Technical Specification 6.8.1. Therefore, no violation existed. 4OA5 Other .1 (Closed) LER 05000412/1999-009-01: Missed Performance of Technical Specification Surveillance Requirement 4.8.1.1.1a Following Failure to Re-establish Auto Bus Transfer Capability of 4kV Bus 2A. This LER update corrected some details of the event. The changes did not alter the safety significance or the original assessment of the LER documented in NRC Integrated Inspection Report 05000334(412)/1999-009. This LER supplement was closed during an in-office review. (Closed) LER 05000412/1999-010: Inoperable Containment Seismic Monitor. On October 26, 1999, the licensee identified that the Unit 2 containment seismic monitor had been inoperable since April 2. This was a violation of TS 3.3.3.3 Action Statement "a" and "b" which require restoration of the equipment within 30 days or submit a special report within the following 10 days. This failure constitutes a violation of minor significance and is not subject to formal enforcement action in accordance with Section IV of the NRC's Enforcement Policy. This LER was closed during an onsite review. (Closed) IFI 05000334(412)/1998-001-06: UFSAR Verification Project Follow-up. This inspection follow-up item (IFI) was administratively closed. (Closed) EEI 0500334(412)/1999-010-03: Inadequate Corrective Actions for Degraded River Water/Service Water Vacuum Check Valves. A violation was issued with NRC letter dated May 3, 2000, and will be reviewed under escalated action (EA) 00-045, item number 01013. The apparent violation is closed. (Closed) EEI 05000334/2000-001-01: Inadequate Procedure Results in Failure of One Train of Unit 1 River Water System. A violation was issued with NRC letter dated May 3, 2000, and will be reviewed under EA 00-053, item number 02013. The apparent violation is closed.
+
+.2
+
+.3
+
+.4
+
+.5
+
+6 .6 (Closed) EEI 05000334/2000-002-01: River Water Pump Seal Water Supply Design Deficiencies. A violation was issued with NRC letter dated May 3, 2000, and will be reviewed under EA 00-053, item number 03013. The apparent violation is closed. (Closed) EEI 05000334/2000-002-02: River Water Pump Surveillance Testing Deficiencies. A violation was issued with NRC letter dated May 3, 2000, and will be reviewed under EA 00-053, item number 03023. The apparent violation is closed.
+
+.7
+
+4OA6 Management Meetings .1 Exit Meeting Summary The inspectors presented the inspection results to Mr. K. Ostrowski and other members of licensee management at the conclusion of the inspection on May 19, 2000. The licensee acknowledged the findings presented. The licensee did not indicate that any of the information presented at the exit meeting was proprietary. .2 Predecisional Enforcement Conference Summary On April 13, 2000, a predecisional enforcement conference was held at the NRC Region I office to discuss potential enforcement issues identified in NRC Inspection Reports 05000334(412)/1999-010, 05000334(412)/2000-001, and 05000334(412)/2000-002. These issues related to: 1) an inoperable Unit 2 service water train as a result of a water hammer event, 2) an inoperable Unit 1 river water train as a result of an inappropriate temporary modification on the seal water supply and, 3) an inadequate design of the safety related seal water supply strainers. The information presented at this meeting was evaluated in accordance with the "General Statement of Policy and Procedure for NRC Enforcement Action" (Enforcement Policy), NUREG-1600 (November 9, 1999) and the resulting actions were documented in Notice of Violation (EA-00-045 and EA-00053) dated May 3, 2000.
+
+7 ITEMS OPENED, CLOSED AND DISCUSSED Opened 05000334(412)/00-045 (01013) EA Inadequate Corrective Actions for Degraded River Water/Service Water Vacuum Check Valves (4OA5.4) Inadequate Review of Temporary Modification to River Water Pump Seal Water Supply (4OA5.5) River Water Pump Seal Water Supply Design Deficiencies (4OA5.6) River Water Pump Surveillance Testing Deficiencies (4OA5.7)
+
+05000334/00-053 (02013)
+
+EA
+
+05000334/00-053 (03013)
+
+EA
+
+05000334/00-053 (03023)
+
+EA
+
+Closed 05000334/2000-005 LER Manual Reactor Trip in Response to Degraded Condenser Vacuum (4OA3) Missed Performance of Technical Specification Surveillance Requirement 4.8.1.1.1a Following Failure to Re-establish Auto Bus Transfer Capability of 4kV Bus 2A (4OA5.1) Inoperable Containment Seismic Monitor (4OA5.2) UFSAR Verification Project Follow-Up (4OA5.3) Inadequate Corrective Actions for Degraded River Water/Service Water Vacuum Check Valves (4OA5.4) Inadequate Procedure Results in Failure of One Train of Unit 1 River Water System (4OA5.5) River Water Pump Seal Water Supply Design Deficiencies (4OA5.6) River Water Pump Surveillance Testing Deficiencies (4OA5.7)
+
+05000412/1999-009-001
+
+LER
+
+05000412/1999-010 05000334(412)/1998-001-06 05000334(412)/1999-010-03
+
+LER IFI EEI
+
+05000334/2000-001-01
+
+EEI
+
+05000334/2000-002-01
+
+EEI
+
+05000334/2000-002-02
+
+EEI
+
+8 LIST OF ACRONYMS USED ANSS CFR CR EA gpm HHSI IFI LER OST RPS SDP Assistant Nuclear Shift Supervisor Code of Federal Regulations Condition Report Escalated Action Gallons per Minute High Head Safety Injection Inspection Follow-up Item Licensee Event Report Operational Surveillance Test Reactor Protection System Significance Determination Process
+
+ATTACHMENT 1
+
+NRC's REVISED REACTOR OVERSIGHT PROCESS
+The federal Nuclear Regulatory Commission (NRC) recently revamped its inspection, assessment, and enforcement programs for commercial nuclear power plants. The new process takes into account improvements in the performance of the nuclear industry over the past 25 years and improved approaches of inspecting and assessing safety performance at NRC licensed plants. The new process monitors licensee performance in three broad areas (called strategic performance areas): reactor safety (avoiding accidents and reducing the consequences of accidents if they occur), radiation safety (protecting plant employees and the public during routine operations), and safeguards (protecting the plant against sabotage or other security threats). The process focuses on licensee performance within each of seven cornerstones of safety in the three areas: Reactor Safety ÿ Initiating Events ÿ Mitigating Systems ÿ Barrier Integrity ÿ Emergency Preparedness Radiation Safety ÿ Occupational ÿ Public Safeguards ÿ Physical Protection
+
+To monitor these seven cornerstones of safety, the NRC uses two processes that generate information about the safety significance of plant operations: inspections and performance indicators. Inspection findings will be evaluated according to their potential significance for safety, using the Significance Determination Process, and assigned colors of GREEN, WHITE, YELLOW or RED. GREEN findings are indicative of issues that, while they may not be desirable, represent very low safety significance. WHITE findings indicate issues that are of low to moderate safety significance. YELLOW findings are issues that are of substantial safety significance. RED findings represent issues that are of high safety significance with a significant reduction in safety margin. Performance indicator data will be compared to established criteria for measuring licensee performance in terms of potential safety. Based on prescribed thresholds, the indicators will be classified by color representing varying levels of performance and incremental degradation in safety: GREEN, WHITE, YELLOW, and RED. GREEN indicators represent performance at a level requiring no additional NRC oversight beyond the baseline inspections. WHITE corresponds to performance that may result in increased NRC oversight. YELLOW represents performance that minimally reduces safety margin and requires even more NRC oversight. And RED indicates performance that represents a significant reduction in safety margin but still provides adequate protection to public health and safety. The assessment process integrates performance indicators and inspection so the agency can reach objective conclusions regarding overall plant performance. The agency will use an Action Matrix to determine in a systematic, predictable manner which regulatory actions should be taken based on a licensee's performance. The NRC's actions in response to the significance (as represented by the color) of issues will be the same for performance indicators as for inspection findings. As a licensee's safety performance degrades, the NRC will take more and increasingly significant action, which can include shutting down a plant, as described in the Action Matrix. More information can be found at: http://www.nrc.gov/NRR/OVERSIGHT/index.html.
+
+

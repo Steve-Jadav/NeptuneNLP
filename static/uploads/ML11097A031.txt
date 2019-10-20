@@ -1,0 +1,56 @@
+UNITED STATES NUCLEAR REGULATORY COMMISSION
+REGION III 2443 WARRENVILLE ROAD, SUITE 210 LISLE, IL 60532-4352
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION April 4, 2011 Mr. Tom Kirwin Vice-President, Operations (Acting) Entergy Nuclear Operations, Inc. Palisades Nuclear Plant 27780 Blue Star Memorial Highway Covert, MI 49043-9530 SUBJECT: PALISADES NUCLEAR PLANT NRC SECURITY BASELINE INSPECTION REPORT 05000255/2011403(DRS)
+
+Dear Mr. Kirwin: On March 4, 2011, the U. S. Nuclear Regulatory Commission (NRC) completed a security baseline inspection at your Palisades Nuclear Plant. The inspection covered one or more of the key attributes of the security cornerstone of the NRC's Reactor Oversight Process. The enclosed inspection report documents the inspection results, which were discussed on March 4, 2011, with you and other members of your staff. The inspection examined activities conducted under your license as they relate to security and compliance with the Commission's rules and regulations and with the conditions of your license. The inspector reviewed selected procedures and records, observed activities, and interviewed personnel. This report documents one NRC-identified finding of very low security significance (i.e., Green as determined by the Physical Protection Significance Determination Process) and associated violation of NRC requirements. The deficiencies were promptly corrected or compensated for, and the plant was in compliance with applicable physical protection and security requirements within the scope of this inspection before the inspector left the site. The one finding had a cross-cutting aspect in the area of Human Performance, Decision Making (H.1(b)), because the licensee failed to conduct effectiveness reviews of safety significant decisions to verify the validity of the underlying assumptions and identify possible unintended consequences. The NRC is treating this violation as Non-Cited Violations (NCV) consistent with Section 2.3.2 of the NRC Enforcement Policy because of the very low security significance of the violation and because it was entered into your corrective action program. Additionally, two licensee-identified violations, which were determined to be of very low security significance, are listed in this report. The NRC is treating these violations a NCVs consistent with Section 2.3.2 of the NRC Enforcement Policy because of the very low security significance of the violations and because they were entered into your corrective action program.
+Enclosure contains Sensitive Unclassified Non-Safeguards Information. When separated from enclosure, this transmittal document is decontrolled.
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+T. Kirwin -2-
+
+If you contest the subject or severity of an NCV, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U. S. Nuclear Regulatory Commission, ATTN.: Document Control Desk, Washington DC 20555-0001; with a copy to the Regional Administrator, U. S. Nuclear Regulatory Commission ­ Region III, 2443 Warrenville Road, Suite 210, Lisle, IL 60532-4352; the Director, Office of Enforcement, U. S. Nuclear Regulatory Commission, Washington, DC 20555- 0001; and the Resident Inspector Office at the Palisades Nuclear Plant. In addition, if you disagree with the cross cutting aspect assigned to the finding in this report, you should provide a response within 30 days of the date of this inspection report, with the basis for your disagreement, to the Regional Administrator, Region III, and the NRC Resident Inspector at the Palisades Nuclear Plant. In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter will be available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records System (PARS) component of NRC's document system, ADAMS. ADAMS is accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room). However, because of the security-related concerns contained in the enclosure, and in accordance with 10 CFR 2.390, a copy of this letter's enclosure will not be available for public inspection. In accordance with 10 CFR 2.390(b)(1)(ii), the NRC is waiving the affidavit requirements for your response, if any. This practice will ensure that your response will not be made available electronically for public inspection in the NRC Public Document Room or from the NRC's document system, ADAMS. If Safeguards Information is necessary to provide an acceptable response, please provide the level of protection described in 10 CFR 73.21. Otherwise, mark your entire response "Security-Related Information-Withhold Under 10 CFR 2.390" and follow the instructions for withholding in 10 CFR 2.390(b)(1). Should you have any questions concerning this inspection, we will be pleased to discuss them with you. Sincerely, /RA/ Richard A. Skokowski, Chief Plant Support Branch Division of Reactor Safety Docket No. 50-255 License No. DPR-20 Nonpublic Enclosure: Inspection Report 05000255/2011403(DRS) w/Attachment: Supplemental Information DISTRIBUTION: See next page
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+Letter to Tom Kirwin from Richard A. Skokowski dated April 4, 2011. SUBJECT: PALISADES NUCLEAR PLANT NRC SECURITY BASELINE INSPECTION REPORT 05000255/2011403(DRS) S. Coker, NSIR/DSO/DDSO/ST C. Johnson, NSIR J. Trapp, Region I M. Ernstes, RII M. Shannon, RIV K. Yale, State Liaison Officer, State of Michigan Distribution via ListServ
+
+cc w/encl:
+
+cc w/o encl:
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+T. Kirwin -2If you contest the subject or severity of an NCV, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U. S. Nuclear Regulatory Commission, ATTN.: Document Control Desk, Washington DC 20555-0001; with a copy to the Regional Administrator, U. S. Nuclear Regulatory Commission ­ Region III, 2443 Warrenville Road, Suite 210, Lisle, IL 60532-4352; the Director, Office of Enforcement, U. S. Nuclear Regulatory Commission, Washington, DC 20555- 0001; and the Resident Inspector Office at the Palisades Nuclear Plant. In addition, if you disagree with the cross cutting aspect assigned to the finding in this report, you should provide a response within 30 days of the date of this inspection report, with the basis for your disagreement, to the Regional Administrator, Region III, and the NRC Resident Inspector at the Palisades Nuclear Plant. In accordance with 10 CFR 2.390 of the NRC's "Rules of Practice," a copy of this letter will be available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records System (PARS) component of NRC's document system, ADAMS. ADAMS is accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room). However, because of the security-related concerns contained in the enclosure, and in accordance with 10 CFR 2.390, a copy of this letter's enclosure will not be available for public inspection. In accordance with 10 CFR 2.390(b)(1)(ii), the NRC is waiving the affidavit requirements for your response, if any. This practice will ensure that your response will not be made available electronically for public inspection in the NRC Public Document Room or from the NRC's document system, ADAMS. If Safeguards Information is necessary to provide an acceptable response, please provide the level of protection described in 10 CFR 73.21. Otherwise, mark your entire response "Security-Related Information-Withhold Under 10 CFR 2.390" and follow the instructions for withholding in 10 CFR 2.390(b)(1). Should you have any questions concerning this inspection, we will be pleased to discuss them with you. Sincerely, /RA/ Richard A. Skokowski, Chief Plant Support Branch Division of Reactor Safety Docket No. 50-255 License No. DPR-20 Nonpublic Enclosure: Inspection Report 05000255/2011403(DRS) w/Attachment: Supplemental Information DISTRIBUTION: See next page SEE PREVIOUS CONCURRENCES
+
+DOCUMENT NAME: G:\DRSIII\DRS\Work in Progress\PAL 2011 403 DRS OUO - Cover Letter.docx  Publicly Available  Non-Publicly Available  Sensitive  Non-Sensitive
+To receive a copy of this document, indicate in the concurrence box "C" = Copy without attach/encl "E" = Copy with attach/encl "N" = No copy
+
+OFFICE NAME DATE
+
+RIII GHansen:co 03/31/11
+
+RIII DFunk 03/31/11
+
+RIII RSkokowski 04/05/11
+
+OFFICIAL RECORD COPY
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+Letter to Mr. Tom Kirwin from Mr. Richard A. Skokowski dated April 4, 2011. SUBJECT: PALISADES NUCLEAR PLANT NRC SECURITY BASELINE INSPECTION REPORT 05000255/2011403(DRS) S. Coker, NSIR/DSO/DDSO/ST C. Johnson, NSIR J. Trapp, Region I M. Ernstes, RII M. Shannon, RIV K. Yale, State Liaison Officer, State of Michigan Distribution via ListServ
+
+cc w/encl:
+
+cc w/o encl:
+
+DISTRIBUTION: Daniel Merzke RidsNrrPMPalisades Resource RidsNrrDorlLpl3-1 Resource RidsNrrDirsIrib Resource Cynthia Pederson Steven Orth Jared Heck Allan Barker Carole Ariano Linda Linn DRPIII DRSIII Patricia Buckley Tammy Tomczak ROPreports Resource
+
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION
+
+

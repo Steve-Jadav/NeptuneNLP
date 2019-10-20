@@ -1,0 +1,152 @@
+October 23, 2000
+
+Garry L. Randolph, Senior Vice President and Chief Nuclear Officer Union Electric Company P.O. Box 620 Fulton, Missouri 65251 SUBJECT: CALLAWAY PLANT -- NRC INSPECTION REPORT NO. 50-483/00-14
+
+Dear Mr. Randolph: This refers to the inspection conducted on August 20 through October 7, 2000, at the Callaway Plant facility. The enclosed report presents the results of this inspection which were discussed with Mr. Ron Affolter, Plant Manager, and other members of your staff. This inspection was an examination of activities conducted under your license as they relate to safety and compliance with the Commission's rules and regulations and with the conditions of your license. Within these areas, the inspection consisted of a selected examination of procedures and representative records, observations of activities, and interviews with personnel. Based on the results of this inspection, the NRC has determined that one Severity Level IV violation of NRC requirements occurred. This violation is being treated as a noncited violation, consistent with Section VI.A.1 of the NRC's Enforcement Policy. This noncited violation is described in the subject inspection report. If you contest the violation or significance of the noncited violation, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington, DC 20555-0001, with copies to the Regional Administrator, U.S. Nuclear Regulatory Commission, Region IV, 611 Ryan Plaza Drive, Suite 400, Arlington, Texas 76011; the Director, Office of Enforcement, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; and the Resident Inspector, U.S. Nuclear Regulatory Commission, at the Callaway Plant facility. In accordance with 10 CFR 2.790 of the NRC's "Rules of Practice," a copy of this letter, its enclosure, and your response will be made available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records component of the NRC's document system (ADAMS). ADAMS is accessible from the NRC Web site at http://www.nrc.gov/NRC/ADAMS/index.html (the Public Electronic Reading Room).
+
+Union Electric Company
+
+-2-
+
+Should you have any questions concerning this inspection, we will be pleased to discuss them with you. Sincerely,
+
+/RA/
+William D. Johnson, Chief Project Branch B Division of Reactor Projects Docket No.: 50-483 License No.: NPF-30 Enclosure: NRC Inspection Report No. 50-483/00-14 cc w/enclosure: Professional Nuclear Consulting, Inc. 19041 Raines Drive Derwood, Maryland 20855 John O'Neill, Esq. Shaw, Pittman, Potts & Trowbridge 2300 N. Street, N.W. Washington, D.C. 20037 Mark A. Reidmeyer, Regional Regulatory Affairs Supervisor Quality Assurance Union Electric Company P.O. Box 620 Fulton, Missouri 65251 Manager - Electric Department Missouri Public Service Commission 301 W. High P.O. Box 360 Jefferson City, Missouri 65102 Ronald A. Kucera, Director of Intergovernmental Cooperation P.O. Box 176 Jefferson City, Missouri 65102
+
+Union Electric Company
+
+-3-
+
+Otto L. Maynard, President and Chief Executive Officer Wolf Creek Nuclear Operating Corporation P.O. Box 411 Burlington, Kansas 66839 Dan I. Bolef, President Kay Drey, Representative Board of Directors Coalition for the Environment 6267 Delmar Boulevard University City, Missouri 63130 Lee Fritz, Presiding Commissioner Callaway County Court House 10 East Fifth Street Fulton, Missouri 65151 Alan C. Passwater, Manager Licensing and Fuels AmerenUE One Ameren Plaza 1901 Chouteau Avenue P.O. Box 66149 St. Louis, Missouri 63166-6149 J. V. Laux, Manager Quality Assurance Union Electric Company P.O. Box 620 Fulton, Missouri 65251 Jerry Uhlmann, Director State Emergency Management Agency P.O. Box 116 Jefferson City, Missouri 65101
+
+Union Electric Company
+
+-4-
+
+Electronic distribution from ADAMS by RIV: Regional Administrator (EWM) DRP Director (KEB) DRS Director (ATH) Senior Resident Inspector (VGG) Branch Chief, DRP/B (WDJ) Senior Project Engineer, DRP/B (RAK1) Branch Chief, DRP/TSS (PHH) RITS Coordinator (NBH) Only inspection reports to the following: David Diec (DTD) NRR Event Tracking System (IPAS) CWY Site Secretary (DVY)
+
+R:\_CW\2000\CW2000-14RP-VGG.wpd RIV:RI:DRP SRI:DRP/B C:DRP/B JDHanna VGGaddy WDJohnson E - WDJohnson E - WDJohnson /RA/ 10/16/00 10/13/00 10/23/00 OFFICIAL RECORD COPY T=Telephone
+
+E=E-mail
+
+F=Fax
+
+ENCLOSURE U.S. NUCLEAR REGULATORY COMMISSION REGION IV Docket No.: License No.: Report No.: Licensee: Facility: Location: Dates: Inspectors: Approved By: ATTACHMENTS: 50-483 NPF-30 50-483/00-14 Union Electric Company Callaway Plant Junction Highway CC and Highway O Fulton, Missouri August 20 through October 7, 2000 V. G. Gaddy, Senior Resident Inspector J. D. Hanna, Resident Inspector W. D. Johnson, Chief, Project Branch B 1. Supplemental Information 2. NRC's Revised Reactor Oversight Process
+
+SUMMARY OF FINDINGS Callaway Plant NRC Inspection Report No. 50-483/00-14 IR 05000483-00-14; on 08/20-10/07/2000; Union Electric Co; Callaway Plant. Resident Report; Personnel Performance During Nonroutine Plant Evolutions and Events The report covers a 7-week period of resident inspection. The significance of issues is indicated by their color (green, white, yellow, red) and was determined by the significance determination process in Inspection Manual Chapter 0609. Cornerstone: Other · No Color. On October 3, 2000, while reviewing the procedural guidance for locally starting the diesel generator, a nonlicensed operator started the diesel generator by inadvertently breaking the glass cover for the emergency start button on the local control panel. Operations personnel failed to report the start of the diesel generator as a manual actuation of an engineered safety feature within the 4-hour time requirement. Quality assurance personnel subsequently identified that this condition was reportable. Failing to report the manual actuation of the diesel generator within the required 4 hours was a violation of 10 CFR 50.72(b)(2)(ii). This violation is being treated as a noncited violation consistent with Section VI.A.1 of the NRC Enforcement Policy. This item was entered into the licensee's corrective action program as Suggestion-OccurrenceSolution Report 00-2450 (Section 1R14).
+
+Report Details
+
+Summary of Plant Status: The plant operated at essentially 100 percent power for the entire report period. 1. REACTOR SAFETY Cornerstones: Initiating Events, Mitigating Systems, Barrier Integrity
+
+1R01 Adverse Weather (71111.01) a. Inspection Scope The inspectors performed walkdowns of various systems to verify that design features and implementation of the licensee's procedures protected mitigating systems when challenged by high temperature weather. These systems included: borated water storage tank; the diesel generator building heating, ventilation, and air conditioning system; and the ultimate heat sink. The inspectors reviewed the normal operating procedures for these systems and discussed adverse weather preparations with the licensee. b. Findings There were no findings identified. 1R04 Equipment Alignments (71111.04) a. Inspection Scope The inspectors performed a partial walkdown of auxiliary feedwater Train B while Train A was out of service for maintenance to verify equipment alignment and identify any discrepancies that could impact the function of the system and therefore increase risk. The inspection included a review of component alignment designated in Normal Operating Procedure OTN-AL-0001, "Auxiliary Feedwater System," Revision 6. The inspectors also performed a partial walkdown of chemical and volume control system and centrifugal charging Pump B while Train A was out of service for maintenance. The inspectors reviewed component alignment against piping and instrumentation Diagram M-22BG03(Q), Revision 44. b. Findings There were no findings identified.
+
+-21R05 Fire Protection (71111.05) .1 a. Routine Fire Area Walkdown Inspection Scope The inspectors reviewed the following areas to determine if the licensee had implemented a fire protection program that adequately controlled combustibles and ignition sources within the plant, effectively maintained fire detection and suppression capabilities, and maintained passive fire protection features in good material condition. The areas reviewed were: · · · · b. Component cooling water pump and heat exchanger areas Remote shutdown panel Upper and lower cable spread rooms Essential service water pipe chase room
+
+Findings There were no findings identified.
+
+.2 a.
+
+Annual Fire Drill Inspection Scope The inspectors observed an unannounced fire drill on September 5, 2000. The purpose of the drill was to evaluate the readiness and effectiveness of fire brigade personnel in responding to a fire inside the radiologically controlled area. The drill was conducted using fire drill Scenario 00U05. The fire drill was held in Room 1401 (component cooling water pump and heat Exchanger B area).
+
+b.
+
+Findings There were no findings identified.
+
+1R07 Heat Sink Performance (71111.07) .1 a. Containment Air Cooler Heat Removal Calculation Inspection Scope The inspectors reviewed the licensee's engineering calculations supporting a change to the minimum cooling water flow rate to the containment air coolers. The inspectors verified the revised postaccident essential service water flow rate would maintain required heat removal capacity modeled in containment pressure/temperature safety analysis. The inspectors reviewed Technical Specification Bases Change Notice 00-026 and Data Sheet GN-03, Revision 4.
+
+-3b. Findings There were no findings identified. .2 a. Asiatic Clam Effect on Heat Exchanger Performance Inspection Scope The inspectors evaluated the licensee's response to an Asiatic clam infestation that affected the performance of safety-related heat exchangers. The inspectors performed this review to ensure that potential common cause heat sink performance problems were being addressed by the licensee. b. Findings The Asiatic clams caused essential service water flow to the room cooler for motor driven auxiliary feedwater Pump B to go below the minimum required value. This caused auxiliary feedwater Pump B to become inoperable. The Technical Specification Action Statement was entered and then exited once adequate flow was restored via the associated throttle valve. The results of testing of all safety-related heat exchangers supplied by essential service water indicated that flow to several other heat exchangers was also degraded due to the Asiatic clams. In cases where the essential service water flow to the heat exchanger had dropped below the minimum required, operability was restored. At the end of the inspection period, the licensee was still assessing the significance of the Asiatic clam infestation. This issue will remain unresolved pending final licensee resolution (50-483/0014-01). This issue was entered into the licensee's corrective action program as Suggestion-Occurrence-Solution Report 00-2222. 1R12 Maintenance Rule Implementation (71111.12) a. Inspection Scope The inspectors verified proper implementation of the maintenance rule to assess the effectiveness of the licensee's maintenance efforts. Specially, the inspectors verified structure and component scoping, characterization, safety significance, performance criteria, and the appropriateness of goals and corrective actions. These aspects of the maintenance rule were reviewed for the following components: · · b. Containment purge exhaust gas Detector GTRE0033 Spent fuel pool Pump B
+
+Findings There were no findings identified.
+
+-41R13 Maintenance Risk Assessment and Emergent Work Control (71111.13) a. Inspection Scope Throughout the inspection period, the inspectors reviewed the daily and weekly schedules to determine when risk significant activities were scheduled and to verify how the licensee managed risk. The inspectors discussed selected activities with operations and work control personnel regarding risk evaluations and overall plant configuration control. The inspectors evaluated the effectiveness of risk assessments performed by the licensee when essential service water Train A was rendered inoperable to flush the essential service water supply to the turbine-driven auxiliary feedwater pump and when containment spray Pump B room cooler was removed from service for cleaning during a Train A maintenance workweek. b. Findings There were no findings identified. 1R14 Personnel Performance During Nonroutine Plant Evolutions and Events (7111.14) a. Inspection Scope On October 3, 2000, Diesel Generator A was inadvertently started by a nonlicensed operator. The inspectors reviewed personnel performance during and subsequent to the inadvertent start of the diesel generator. b. Findings On October 3, 2000, at 8:55 p.m., while reviewing the procedural guidance for emergency starting the diesel generator from the local control panel, a nonlicensed operator inadvertently broke the glass cover for the emergency start button on the local control panel and started Diesel Generator A. The diesel generator achieved rated voltage and speed following the start signal. The diesel generator did not connect to the 4160 volt bus because there was no demand signal present. The diesel generator was subsequently secured and restored to a standby status. The diesel generator remained operable and all equipment functioned as designed during the transient. The inspectors did not identify any performance problems associated with the function or operability of either the diesel generator or of other safety-related equipment. This event constituted a manual actuation of an engineered safety feature and was therefore reportable in accordance with 10 CFR 50.72(b)(2)(ii). This report was required to be made within 4 hours of occurrence. The control room operating crew and the emergency duty officer failed to recognize the event as reportable. Quality assurance personnel subsequently identified that the manual actuation was reportable. Consequently, this event was not reported until 10:12 a.m. on October 4. Failure to report the manual actuation of an engineered safety feature within the required 4 hours
+
+-5was a violation of 10 CFR 50.72(b)(2)(ii). This Severity Level IV violation is being treated as a noncited violation consistent with Section VI.A.1 of the NRC Enforcement Policy. This violation is in the licensee's corrective action program as SuggestionOccurrence-Solution Report 00-2450 (50-483/0014-02). 1R15 Operability Evaluations (71111.15) a. Inspection Scope The inspectors reviewed the following evaluations to ensure that operability was properly justified and the component or system remained available: · Residual heat removal Pump B room cooler tube blockage due to Asiatic clams, Suggestion-Occurrence-Solution Report 00-2222 Low containment air Cooler B flow rate low due to Asiatic clams and macrofouling, Suggestion-Occurrence-Solution Report 00-2225
+
+·
+
+b.
+
+Findings There were no findings identified.
+
+1R16 Operator Workarounds (71111.16) a. Inspection Scope The inspectors reviewed the operator workaround list and emergency operating procedures that utilized components on the workaround list. The inspectors verified that the cumulative effect of workarounds did not challenge operators in responding to plant transients and events. The inspectors spoke with licensee personnel and reviewed the operator workaround list, dated July 25, 2000, the component emergency operating procedure database, and the following emergency operating procedures: · · · · b. ECA-0.0, "Loss of All AC Power," Revision 1B2 E-0, "Reactor Trip of Safety Injection," Revision 1B3 ES-0.2, "Natural Circulation Cooldown," Revision 1B1 FR-H.1, "Response to Loss of Secondary Heat Sink," Revision 1B1
+
+Findings There were no findings identified.
+
+1R19 Postmaintenance Testing (71111.19) a. Inspection Scope The inspectors observed or evaluated the following postmaintenance tests to determine whether they were adequate to verify system operability and functional capabilities:
+
+-6· Valve ABHV0009, motor-driven auxiliary feedwater pump to steam Generator B hand control valve, Valve ABHV0011, motor-driven auxiliary feedwater pump to steam Generator C hand control valve, Residual heat removal Pump B room Cooler SGL10B
+
+·
+
+· b.
+
+Findings There were no findings identified.
+
+1R22 Surveillance Testing (71111.22) .1 a. Routine Surveillance Tests Inspection Scope The inspectors observed or reviewed the following surveillance tests to ensure the systems tested were capable of performing their safety function and to assess their operational readiness. Specifically, the inspectors verified that the following surveillance tests met Technical Specifications, ASME Section XI test requirements, the Final Safety Analysis Report, and licensee procedure requirements: · Surveillance Procedure OSP-EM-P0001A, "Section XI Safety Injection Train A Operability," Revision 24 Test Procedure ETP-EF-0002A, "Essential Service Water Train A Flow Verification," Revision 4 Test Procedure ETP-EF-0002B, "Essential Service Water Train B Flow Verification, Revision 4 Surveillance Procedure OSP-EJ-P001A, "Residual Heat Removal Train A Inservice Test," Revision 25
+
+·
+
+·
+
+·
+
+b.
+
+Findings There were no findings identified.
+
+.2 a.
+
+Notice of Enforcement Discretion Inspection Scope The inspectors followed up to determine why Valve BNHV8812A (residual heat removal Pump A suction from the refueling water storage tank) had not been tested within its required Technical Specification surveillance frequency.
+
+-7b. Findings On August 30, 2000, the licensee notified the inspectors that they did not have an adequate surveillance test that demonstrated the interlock between Valve BNHV8812A (residual heat removal Pump A suction from the refueling water storage tank) and Valve EJHV8811A (containment recirculation Sump A). Specifically, a safety injection coincident with low level in the refueling water tank would cause Valve EJHV8811A to open. When Valve EJHV8811A was full open, a limit switch on the valve sent a closure signal to Valve BNHV8812A. Technical Specification Surveillance Requirement 3.5.2.5 required that valves in the emergency core cooling system actuate to their correct position on an actual or simulated actuation signal. This surveillance requirement had an 18-month frequency. The licensee determined that the last time this test was satisfactorily performed was April 1998, which was outside its surveillance frequency. The licensee had an adequate surveillance test that tested Valves BNHV8812B and EJHV8811B. The licensee initially stated that, since Valve BNHV8812A received its closure signal from a limit switch on Valve EJHV8811A and not an actual or simulated signal, the surveillance requirement did not apply. The NRC disagreed with this reasoning because Valve BNHV8812A was actuated indirectly by a safety injection signal and its closure was required by the accident analysis for a loss of coolant accident. The licensee then entered Technical Specification Surveillance Requirement 3.0.3 at 11:35 a.m. on September 7, 2000, for failing to test Valve BNHV8812A within its surveillance interval as required by Technical Specification Surveillance Requirement 3.5.2.5. Technical Specification Surveillance Requirement 3.0.3 allowed a 24-hour extension to perform the surveillance. If the surveillance was not performed within the 24 hours, then entry into a limiting condition for operation was required. On September 7, the licensee requested enforcement discretion because opening the containment recirculation sump valve (EJHV8811A) would drain the residual heat removal header into the containment sump and render the residual heat removal pump inoperable. The request for enforcement discretion was documented in Letter ULNRC-04307. In the request for enforcement discretion, the licensee stated that a sensitivity calculation had been performed that demonstrated that there was sufficient time for manual operator action to close Valve BNHV8812A while following the emergency operating procedures to complete the switchover to the recirculation phase of emergency core cooling. As a compensatory measure, the licensee issued a night order explaining to operations personnel why Valve BNHV8812A was not being tested within its required surveillance frequency and just-in-time training was conducted with operations personnel covering the existing contingency steps in the emergency operating procedure should Valve BNHV8812A fail to close. The NRC evaluated the licensee's request for enforcement discretion and granted the request on September 8, allowing that the automatic closure of Valve BNHV8812A did not have to comply with Technical Specification Surveillance Requirement 3.5.2.5 until
+
+-8either: (1) there was a plant shutdown to Mode 5 (cold shutdown) when the closure function of Valve BNHV8812A could be tested or (2) an exigent Technical Specification amendment was approved (no later than 4 weeks from September 8, 2000). In granting the request, the NRC concluded that the automatic closure function should not be tested with the plant at power and shutting down to conduct the test was not necessary with the above compensatory measures, the fact that the closure function had been successfully tested in the past, and the potential that a plant transient during shutdown could pose additional operational risks. Following the NRC granting the Notice of Enforcement Discretion, the licensee exited Technical Specification Surveillance Requirement 3.0.3. This item will remain unresolved pending completion of testing during the first Mode 5 shutdown or until testing during the Spring 2001 refueling outage (50-483/0014-03). 4. OTHER ACTIVITIES
+
+4OA1 Performance Indicator Verification a. Inspection Scope The inspectors reviewed the licensee's performance indicator data collecting and reporting for selected indicators to determine whether NRC and industry guidance discussed in Temporary Instruction 2515/144, "Performance Indicator Data Collecting and Reporting Process Review," was appropriately implemented. The inspectors verified the following performance indicators: · · · · b. Safety system unavailability for the high pressure safety injection system Safety system functional failures Emergency response organization drill participation Protected area security equipment performance
+
+Findings There were no findings identified.
+
+4OA4 Other .1 (Closed) Licensee Event Report 483/99-08-00 and Licensee Event Report 483/99-08-01: reactor trip due to low steam generator water level resulting from loss of power to feedwater control cabinet. This event was discussed in NRC Inspection Report 50-483/99-14. No new information was provided. These licensee event reports are closed.
+
+-9.2 (Closed) Licensee Event Report 483/00-02-00 and Licensee Event Report 483/00-02-01: automatic reactor trip initiated by reactor coolant pump trip caused by motor current imbalance due to transmission system disturbance. This event was discussed in NRC Inspection Report 50-483/00-01. No new information was provided. These licensee event reports are closed.
+
+4OA6 Management Meetings Exit Meeting Summary The inspectors presented the inspection results to Mr. Ron Affolter, Plant Manager, and other members of licensee management on October 6, 2000. The inspector asked the licensee whether any materials examined during the inspection should be considered proprietary. No proprietary information was identified.
+
+ATTACHMENT 1 SUPPLEMENTAL INFORMATION KEY POINTS OF CONTACT Licensee R. Affolter, Plant Manager M. Faulkner, Assistant Superintendent, Security J. Hiller, Engineer, Quality Assurance Regulatory Support M. Reidmeyer, Supervisor, Regional Regulatory Affairs R. Roselius, Superintendent, Radiation Protection and Chemistry K. Schoolcraft, Senior Engineer, Quality Assurance Regulatory Support M. Taylor, Manager, Nuclear Engineering W. Witt, Assistant Plant Manager
+
+ITEMS OPENED AND CLOSED Opened URI 50-483/0014-01 Degraded performance of heat exchangers as a result of Asiatic clam infestation (Section 1R07) Failure to report the actuation of an engineered safety feature (Section 1R14) Inadequate surveillance test to demonstrate the interlock between Valve BNHV8812A and Valve EJHV8811A (Section 1R22)
+
+NCV
+
+50-483/0014-02
+
+URI
+
+50-483/0014-03
+
+Closed NCV 50-483/0014-02 Failure to report the actuation of an engineered safety feature (Section 1R14) Reactor trip due to a low steam generator water level from loss of power to feedwater control cabinet (Section 4OA4) Reactor trip due to a low steam generator water level from loss of power to feedwater control cabinet (Section 4OA4) Automatic reactor trip initiated by reactor coolant pump trip caused by motor current imbalance due to transmission system disturbance (Section 4OA4.2) Automatic reactor trip initiated by reactor coolant pump trip caused by motor current imbalance due to transmission system disturbance (Section 4OA4.2).
+
+LER
+
+50-483/99-08-00
+
+LER
+
+50-483/99-08-01
+
+LER
+
+50-483/00-02-00
+
+LER
+
+50-483/00-02-01
+
+-2DOCUMENTS REVIEWED Equipment Alignment Checkoff List 1, "Auxiliary Feedwater Valve Alignment" Checkoff List 2, "Motor Driven Auxiliary Feedwater Switch Alignment" Fire Drill Drill 00U05 Controller Cue Cards 1 and 2 Fire Pre-Plan for Fire Area #A-16B Postmaintenance Testing Surveillance Task Sheet S657340 PM Task Sheets R563281B, R563280B, F653712A, R654918A, R658344A, and R658345A Surveillance Procedure OSP-AL-V0001A, "Train A Auxiliary Feedwater Valve Operability," Revision 21 Surveillance Testing Surveillance Task Sheets S656849 and S656863 Suggestion-Occurrence-Solution Reports 99-1297 and 00-1412 Performance Indicator Verification Emergency response organization drill participation index Historical safety system unavailability and safety system functional failure data Licensee event reports for 1997, 1998, 1999, and 2000 Various security-related suggestion-occurrence-solution reports Performance indicator data summary Report Q2/2000
+
+ATTACHMENT 2 NRC'S REVISED REACTOR OVERSIGHT PROCESS The federal Nuclear Regulatory Commission (NRC) revamped its inspection, assessment, and enforcement programs for commercial nuclear power plants. The new process takes into account improvements in the performance of the nuclear industry over the past 25 years and improved approaches of inspecting safety performance at NRC licensed plants. The new process monitors licensee performance in three broad areas (called strategic performance areas): reactor safety (avoiding accidents and reducing the consequences of accidents if they occur), radiation safety (protecting plant employees and the public during routine operations), and safeguards (protecting the plant against sabotage or other security threats). The process focuses on licensee performance within each of seven cornerstones of safety in the three areas: Reactor Safety ·Initiating Events ·Mitigating Systems ·Barrier Integrity ·Emergency Preparedness Radiation Safety ·Occupational ·Public Safeguards ·Physical Protection
+
+To monitor these seven cornerstones of safety, the NRC used two processes that generate information about the safety significance of plant operations: inspections and performance indicators. Inspection findings will be evaluated according to their potential significance for safety, using the significance determination process, and assigned colors of GREEN, WHITE, YELLOW or RED. GREEN findings are indicative of issues that, while they may not be desirable, represent very low safety significance. WHITE findings indicate issues that are of low to moderate safety significance. YELLOW findings are issues that are of substantial safety significance. RED findings represent issues that are of high safety significance with a significant reduction in safety margin. Performance indicator data will be compared to established criteria for measuring licensee performance in terms of potential safety. Based on prescribed thresholds, the indicators will be classified by color representing varying levels of performance and incremental degradation in safety: GREEN, WHITE, YELLOW, or RED. GREEN indicators represent performance at a level requiring no additional NRC oversight beyond the baseline inspections. WHITE corresponds to performance that may result in increased NRC oversight. YELLOW represents performance that minimally reduces safety margin and requires even more NRC oversight. RED indicates performance that represents a significant reduction in safety margin but still provides adequate protection to public health and safety. The assessment process integrates performance indicators and inspection so the agency can reach objective conclusions regarding overall plant performance. The agency will use an action matrix to determine in a systematic, predictable manner which regulatory actions should be taken based on a licensee's performance. The NRC's actions in response to the significance (as represented by the color) of issues will be the same for performance indicators as for inspection findings. As a licensee's safety performance degrades, the NRC will take more and increasingly significant action, which can include shutting down a plant, as described in the action matrix. More information can be found at: http:\\www.nrc.gov\NRR\OVERSIGHT\index.html.
+
+

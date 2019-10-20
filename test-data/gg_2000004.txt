@@ -1,0 +1,171 @@
+June 12, 2000
+
+William A. Eaton, Vice President Operations - Grand Gulf Nuclear Station Entergy Operations, Inc. P.O. Box 756 Port Gibson, Mississippi 39150 SUBJECT: NRC INSPECTION REPORT NO. 50-416/00-04 FOR GRAND GULF NUCLEAR STATION Dear Mr. Eaton: On May 13, 2000, the NRC completed an inspection at the Grand Gulf Nuclear Station facility. The results were discussed with you and other members of your staff. The enclosed report presents the results of this inspection. This inspection was an examination of activities conducted under your license as they relate to safety and to compliance with the Commission's rules and regulations and with the conditions of your license. Within these areas, the inspection consisted of a selective examination of procedures and representative records, observations of activities, and interviews with personnel. Specifically, this report focused on reactor safety and radiation safety. Based on the results of this inspection, one issue was evaluated under the risk significance determination process and was determined to be of very low safety significance (Green). This issue has been entered into your corrective action program and is discussed in the summary of findings and in the body of the attached inspection report. This issue was determined to involve a violation of NRC requirements, but because of its very low safety significance the violation is not cited. If you contest this noncited violation, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U.S. Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington, DC 20555-0001, with a copy to the Regional Administrator, Region IV; the Director, Office of Enforcement, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; and the NRC Resident Inspector at the Grand Gulf facility. In accordance with 10 CFR 2.790 of the NRC's "Rules of Practice," a copy of this letter and its enclosure will be placed in the NRC Public Document Room and will be available on the NRC Public Electronic Reading Room (PEER) link at the NRC home page, http://www.nrc.gov/nrc/adams/index.html Should you have any questions concerning this inspection, we will be pleased to discuss them with you.
+
+Entergy Operations, Inc.
+
+-2-
+
+Sincerely,
+
+/RA/
+Joseph I. Tapia, Chief Project Branch A Division of Reactor Projects Docket No.: 50-416 License No.: NPF-29 Enclosure: NRC Inspection Report No. 50-416/00-04 cc w/enclosures: Executive Vice President and Chief Operating Officer Entergy Operations, Inc. P.O. Box 31995 Jackson, Mississippi 39286-1995 Wise, Carter, Child & Caraway P.O. Box 651 Jackson, Mississippi 39205 Winston & Strawn 1400 L Street, N.W. - 12th Floor Washington, DC 20005-3502 Sam Mabry, Director Division of Solid Waste Management Mississippi Department of Natural Resources P.O. Box 10385 Jackson, Mississippi 39209 President, District 1 Claiborne County Board of Supervisors P.O. Box 339 Port Gibson, Mississippi 39150 General Manager Grand Gulf Nuclear Station Entergy Operations, Inc. P.O. Box 756
+
+Entergy Operations, Inc.
+
+-3-
+
+Port Gibson, Mississippi 39150 The Honorable Richard Ieyoub Attorney General Department of Justice State of Louisiana P.O. Box 94005 Baton Rouge, Louisiana 70804-9005 Office of the Governor State of Mississippi Jackson, Mississippi 39201 Mike Moore, Attorney General Frank Spencer, Asst. Attorney General State of Mississippi P.O. Box 22947 Jackson, Mississippi 39225 Dr. F. E. Thompson, Jr. State Health Officer State Board of Health P.O. Box 1700 Jackson, Mississippi 39205 Robert W. Goff, Program Director Division of Radiological Health Mississippi Dept. of Health P.O. Box 1700 Jackson, Mississippi 39215-1700 Vice President Operations Support Entergy Operations, Inc. P.O. Box 31995 Jackson, Mississippi 39286-1995 Director, Nuclear Safety and Regulatory Affairs Entergy Operations, Inc. P.O. Box 756 Port Gibson, Mississippi 39150 Vice President, Operations Grand Gulf Nuclear Station Entergy Operations, Inc. P.O. Box 756
+
+Entergy Operations, Inc.
+
+-4-
+
+Port Gibson, Mississippi 39150
+
+Entergy Operations, Inc.
+
+-5-
+
+Electronic distribution from ADAMS by RIV: Regional Administrator (EWM) DRP Director (KEB) DRS Director (ATH) Senior Resident Inspector (JLD) Branch Chief, DRP/A (JIT) Senior Project Engineer, DRP/A (DNG) Branch Chief, DRP/TSS (LAY) RITS Coordinator (NBH) Only inspection reports to the following: D. Lange (DJL) NRR Event Tracking System (IPAS) GG Site Secretary (MJS)
+
+DOCUMENT NAME: R:\_GG\GG2000-04RP-JLD.wpd
+To receive copy of document, indicate in box: "C" = Copy without enclosures "E" = Copy with enclosures "N" = No copy
+
+RIV:SRI JLDixon-Herrity T-DNGraves 06/07/00 C:DRS/PS GMGood /RA/ 06/08/00
+
+RI PJAlter T-DNGraves 06/07/00 C:DRP/A JITapia /RA/ 06/12/00
+
+SHP:DRS/PS LTRicketson GMGood for 06/08/00
+
+DRS/PS JSDodson GMGood for 06/08/00
+
+SHP:DRS/PS JBNicholas GMGood for 06/08/00
+
+OFFICIAL RECORD COPY
+
+ENCLOSURE U.S. NUCLEAR REGULATORY COMMISSION REGION IV Docket No.: License No.: Report No.: Licensee: Facility: Location: Dates: Inspectors: 50-416 NPF-29 50-416/00-04 Entergy Operations, Inc. Grand Gulf Nuclear Station Waterloo Road Port Gibson, Mississippi 39150 April 2 through May 13, 2000 Jennifer Dixon-Herrity, Senior Resident Inspector Peter Alter, Resident Inspector James Dodson, Health Physicist Blair Nicholas, Senior Health Physicist Larry Ricketson, Senior Health Physicist Joseph I. Tapia, Chief, Project Branch A
+
+Approved By:
+
+ATTACHMENTS: Attachment 1: Attachment 2: Supplemental Information NRC's Revised Reactor Oversight Process
+
+SUMMARY OF FINDINGS Grand Gulf Nuclear Station NRC Inspection Report No. 50-416/00-04 The report covers a 6-week period of resident inspection and announced inspections by regional radiation specialists. The significance of issues is indicated by their color (green, white, yellow, or red) and was determined by the significance determination process in Inspection Manual Chapter 0609. Cornerstone: Occupational Radiation Safety · Green. The inspectors identified that the licensee failed to adequately survey items released from the controlled access area. Specifically, the licensee failed to evaluate the presence of hard-to-detect radionuclides. The failure to adequately survey items could result in the release of licensed material. This violation of 10 CFR 20.1501(a) is being treated as a noncited violation, consistent with Section VI.A of the NRC Enforcement Policy. This violation is in the licensee's corrective action program as Condition Report CR-GGN-2000-0479 (Section 2OS3). This issue was characterized as a "green" finding based on the occupational radiation safety significance determination process which indicated that the violation had very low risk significance because the violation did not result in public dose greater than 0.005 rem and there were no more than five events.
+
+Report Details Summary of Plant Status: During this inspection period, the plant operated at 100 percent power, with the exception of minor power reductions for control valve testing and control rod pattern adjustments. 1. REACTOR SAFETY Cornerstones: Initiating Events, Mitigating Systems, Barrier Integrity
+
+1R04 Equipment Alignment a. Inspection Scope The inspectors performed a partial walkdown of the high pressure core spray (HPCS) pump room, the Division III diesel generator, and the necessary support systems while the reactor core isolation cooling system was out of service for a scheduled maintenance outage. The inspectors reviewed Instruction 04-1-01-E22-1, "High Pressure Core Spray System," Revision 103, P&ID M-1086, "High Pressure Core Spray System Unit 1," Revision 28, and open maintenance action items in the work management system. b. Issues and Findings The inspectors did not identify any findings. 1R05 Fire Protection a. Inspection Scope The inspectors performed fire protection walkdowns to assess the material condition of plant fire protection equipment and proper control of transient combustibles. Specific risk-significant areas covered were those containing the HPCS pump, the Division III diesel generator and support systems, the standby service water pumps and valves, and the reactor core isolation cooling pump. The inspectors reviewed Piping and Instrumentation Diagrams M-0035B, -D, -J, and -P, "Fire Protection System Unit 1," Revisions 43, 24, 16, and 4, and Grand Gulf Nuclear Station Fire Pre-Plan A-03 and SSW-01 and -02, Revision 1. b. Issues and Findings The inspectors did not identify any findings. 1R06 Flood Protection Measures a. Inspection Scope The inspectors reviewed the Updated Final Safety Analysis to identify areas that could be affected by external flooding during the winter and spring flood seasons. The inspectors reviewed Technical Specification 6.7.5 and Procedures 06-TE-1000-V-0001, "Culvert No. 1 Embankment Stability Inspection/Survey," Revision 100; 05-1-02-VI-1,
+
+-2"Flooding," Revision 101; and 05-1-02-VI-2, "Hurricanes, Tornados, and Severe Weather," Revision 103. The inspectors walked down safety-related areas to check the integrity of exterior watertight doors and penetrations and the condition of Culvert 1, the 100-year ditch constructed for site flood concerns. In addition to this, the inspectors reviewed condition reports dealing with flooding. b. Issues and Findings The inspectors did not identify any findings. 1R11 Licensed Operator Requalification Program a. Inspection Scope The inspectors reviewed operator requalification activities in the simulator on May 1, 2000, to assess the licensee's effectiveness in evaluating the requalification program and ensuring that licensed individuals received the appropriate level of training required to maintain their licenses. b. Issues and Findings The inspectors did not identify any findings. 1R12 Maintenance Rule Implementation a. Inspection Scope The inspectors reviewed three safety-related systems with performance problems to verify the effectiveness of the implementation of the maintenance rule. Specifically, the inspectors evaluated excessive unavailabilty times for the standby liquid control system, a problem with the speed pickup probe on the reactor core isolation cooling turbine, and a malfunctioning hand switch for the Division I standby diesel generator. b. Issues and Findings The inspectors did not identify any findings. 1R13 Maintenance Risk Assessment and Emergent Work Control a. Inspection Scope Throughout the inspection period, the inspectors reviewed weekly and daily work schedules to determine when risk significant activities were scheduled. The inspectors discussed selected activities with operations and work control personnel regarding risk evaluations and overall plant configuration control. The inspectors discussed emergent work issues with work control center personnel and reviewed the prioritization of scheduled activities when scheduling conflicts occurred. Specific items reviewed during this period included work scheduled during the Division III diesel generator and standby
+
+-3service water Train A system outages and the emergent work scheduled to address a jammed injector on the Division II standby diesel generator. b. Issues and Findings The inspectors did not identify any findings. 1R15 Operability Evaluations a. Inspection Scope The inspectors reviewed the following operability evaluations for technical adequacy, applicable compensatory measures, and impact on continued plant operation: · Condition Report CR-GGN-2000-0504, Reactor Core Isolation Cooling pump oil level in both bearing housings found low using ultrasound, Operability evaluation conducted in response to finding a sticking injector on the Division I standby diesel generator, and Condition Report CR-GGN-2000­0538, containment fuel pool level found 1-inch below the top of the skimmer flow ports.
+
+·
+
+·
+
+b.
+
+Issues and Findings The inspectors did not identify any findings.
+
+1R16 Operator Workarounds a. Inspection Scope The inspectors reviewed the licensee's lists of significant operator workarounds and operations plant enhancements and reviewed the cumulative effects of the workarounds on the operations staff. In addition, the inspectors reviewed the workaround associated with Condition Report CR-GGN-1999-0481, which identified a potential to disable the condensate storage tank low level trip during a seismic event as a result of nonseismic construction. b. Issues and Findings The inspectors did not identify any findings. 1R19 Postmaintenance Testing a. Inspection Scope The inspectors observed or evaluated the postmaintenance tests of the following systems or equipment to determine whether the tests confirmed equipment operability:
+
+-4· · · b. Reactor core isolation cooling system, Division I Standby Diesel Generator, and Standby service water Train B recirculation Valve P41F006B
+
+Issues and Findings The inspectors did not identify any findings.
+
+1R22 Surveillance Testing a. Inspection Scope The inspectors observed or reviewed the following surveillance tests, · 06-CH-1C41-M-0001, "SLC [Standby Liquid Control] Boron Concentration," Revision 104, 06-OP-1E22-Q-0005, "HPCS Quarterly Functional Test," Revision 105, and 06-OP-1P81-M-0002, "HPCS Diesel Generator 13 Functional Test," Revision 106.
+
+· ·
+
+b.
+
+Issues and Findings The inspectors did not identify any findings.
+
+1R23 Temporary Modifications a. Inspection Scope The inspectors reviewed the licensee's list of temporary modifications and verified that there were no safety-related temporary modifications in place. b. Issues and Findings The inspectors did not identify any findings.
+
+-52. RADIATION SAFETY
+
+2OS1 Access Control to Radiological Significant Areas a. Inspection Scope The inspectors interviewed radiation workers and radiation protection personnel on radiation protection work requirements. A number of tours of the controlled access area, including the turbine building, auxiliary building, and containment, were performed. The following items were reviewed: · Access controls and surveys of three significant high dose work areas in the controlled access area, Radiation work permits and electronic pocket dosimeter alarm setpoints, Radiological controls for maintenance performed on the spent fuel pool cleanup system, Placement of personnel dosimetry to effectively monitor exposure to personnel performing electrical, mechanical, and instrumentation and control maintenance on spent fuel pool filter/demineralizer and heat exchanger equipment, Radiation postings and barricades used at entrances to high dose rate areas, high radiation areas, and very high radiation areas, Radiation protection personnel coverage of maintenance work in the spent fuel pool filter/demineralizer room and on the spent fuel pool heat exchanger, and ALARA prejob briefing for the installation of a repaired safety relief valve on the spent fuel pool heat exchanger.
+
+· ·
+
+·
+
+·
+
+·
+
+·
+
+b.
+
+Issues and Findings The inspectors did not identify any findings.
+
+2OS2 ALARA Planning and Controls a. Inspection Scope The inspector interviewed radiation workers and radiation protection personnel involved in high dose rate and high exposure jobs throughout the radiologically controlled area during routine operations. Independent radiation surveys of selected work areas within the controlled access area were performed. The following items were reviewed: · ALARA program procedures,
+
+-6· · Processes used to estimate and track exposures, Plant collective exposure history for the past 3 years, current exposure trends, and 3-year rolling average dose information, Ten radiation work permit packages from the outage/online work activities which resulted in the highest personnel collective exposures during the inspection period, Available data for trends in collective exposures and source term measurements, Use of engineering controls to achieve dose reductions, Individual exposures of selected work groups (health physics, operations, and mechanical maintenance), Hot spot tracking and reduction program, Plant related source term data, including source term control strategy, Radiological work planning, Licensee audit focusing on the ALARA program, Selected corrective action documentation involving higher than planned exposures and radiation worker practice deficiencies since the last inspection in this area, and Declared pregnant worker dose monitoring controls.
+
+·
+
+· · ·
+
+· · · · ·
+
+· b.
+
+Issues and Findings There were no findings identified during this inspection.
+
+2OS3 Radiological Monitoring Instrumentation a. Inspection Scope The inspectors interviewed cognizant licensee personnel and reviewed the following items: · Calibration, operability, and alarm setpoint, when applicable, of portable radiation detection instrumentation, temporary area radiation monitors, continuous air monitors, whole body counting equipment, and personnel contamination monitors, Calibration expiration and source response check currency on radiation detection instruments staged for use,
+
+·
+
+-7-
+
+·
+
+Radiation protection technician instrument selection and self-verification of instrument operability prior to use, The status and surveillance records of self-contained breathing apparatuses (SCBAs) staged and ready for use in the plant, The licensee's capability for refilling and transporting SCBA air bottles to and from the control room and operations support center during emergency conditions, and Control room operator and emergency response personnel training and qualifications for use of SCBAs.
+
+·
+
+·
+
+·
+
+b.
+
+Issues and Findings The inspectors found that the licensee had not evaluated portable frisking instruments and tool monitors to determine their capability in detecting all radionuclides that could be released from the controlled access area. To determine which radionuclides should have been considered in such an evaluation, the inspectors reviewed the latest dry active waste stream analysis. The dry active waste stream analysis was used to classify radioactive waste, in accordance with 10 CFR 61.55, and it indicated the types and relative abundance of radionuclides present as contamination in the licensee's facility. This analysis, conducted independently by a vendor laboratory, confirmed that over 82.5 percent of radioactivity in the waste stream resulted from the presence of iron-55. Iron-55 decays by electron capture and emits only a low energy x-ray. This makes iron-55 hard to detect with the Geiger-Mueller and plastic scintillation survey instruments used by the licensee. The inspectors determined that the licensee had evaluated the effect of the hard-todetect nuclides such as iron-55 on personnel dose (committed effective dose equivalent which was evaluated through whole body counting) and documented compensatory actions in a position paper (GIN 2000-00095). However, the licensee had not evaluated the ability of survey instruments to identify all radionuclides that might be present on items released from its control. Without this evaluation, the licensee could not ensure that release surveys were adequately performed. 10 CFR 20.1003 defines a survey as a means of evaluation of radiological conditions and potential hazards. 10 CFR 20.1501(a) requires each licensee to make, or cause to be made, surveys that may be necessary for the licensee to comply with the regulations in 10 CFR Part 20 and are reasonable under the circumstances to evaluate the extent of radiation levels, concentration or quantities of radioactive material, and the potential radiological hazards that could be present. In this case, surveys were necessary for the licensee to comply with 10 CFR 20.2001, which requires that the licensee dispose of licensed material only in specified ways. The licensee's failure to adequately survey items released from the controlled access area was a violation of 10 CFR 20.1501(a). This violation was processed through the
+
+-8Public Radiation Safety Significance Determination Process because it was a radioactive material control issue. However, because it did not result in public dose greater than 0.005 rem, and there were no more than five events, the violation had very little effect on safety. This violation is being treated as a noncited violation, consistent with Section VI.A of the NRC Enforcement Policy. This violation is in the licensee's corrective action program as Condition Report CR-GGN-2000-0479 (50-416/0004-01). 4 OTHER ACTIVITIES
+
+4OA1 Performance Indicator Verification a. Inspection Scope The inspectors verified the accuracy and completeness of the data used to calculate and report the following performance indicators for the four quarters in 1999: · · · · · Unplanned scrams per 7,000 critical hours of operation, Scrams with a loss of normal heat removal, Unplanned power changes per 7,000 critical hours, Occupational Exposure Control Effectiveness, and Radiological Effluent Technical Specifications/Offsite Dose Calculation Manual Radiological Effluent.
+
+The inspectors reviewed licensee event reports, monthly operating reports, and NRC inspection reports to complete the verification of the first three performance indicators. The inspectors reviewed corrective action program records for restricted high radiation areas, very high radiation areas, and unplanned exposure occurrences for the past 12 months to confirm that these occurrences were properly included in performance indicator data. Selected examples of controlled access area exit transactions with exposures greater than 100 millirem for the past 12 months were reviewed to determine whether they were within the dose projections of the governing radiation work permits. Additionally, radiological effluent release program corrective action records, licensee event reports, and annual effluent release reports were reviewed to determine if any events exceeded the performance indicator thresholds. b. Issues and Findings The inspectors did not identify any errors or findings.
+
+-94OA2 Identification and Resolution of Problems a. Inspection Scope The inspectors interviewed cognizant licensee personnel and reviewed the following items: · Licensee self-assessments and audits, focusing on radiological incidents that involved personnel internal exposures, and Selected exposure-significant radiological incidents that involved radiation monitoring instrument deficiencies since the last inspection in this area.
+
+·
+
+In addition to this, the inspectors reviewed one quality program surveillance and 10 condition reports written since January 1, 1999. The audits, surveillance, and condition reports were reviewed for repetitive or significant deficiencies to determine if identified problems were properly characterized, entered into the corrective action program, and resolved in a timely manner. b. Issues and Findings The inspectors did not identify any findings. 4OA6 Meetings .1 Exit Meeting Summary The inspectors presented the inspection results for the review of radiological monitoring instrumentation to Mr. C. A. Bottemiller and other members of licensee management at the conclusion of the inspection on April 6, 2000. The violation of 10 CFR 20.1501(a), discussed in Section 2OS3, was presented as an unresolved item pending further discussions between the inspectors and representatives of the Office of Nuclear Reactor Regulation. No proprietary information was reviewed. On April 17, 2000, the inspectors informed Mr. Bottemiller and other members of the licensee's staff that the NRC had concluded that the unresolved item was a violation. The licensee acknowledged the finding. The inspectors presented the inspection results for the review of access controls to radiological significant areas to Mr. William A. Eaton and other members of licensee management at the conclusion of the inspection on April 20, 2000. The licensee acknowledged the findings presented. No proprietary information was identified. The inspector presented the inspection results for the review of the ALARA program to Mr. Joseph Venable and other members of licensee management at a meeting on May 12, 2000. The licensee acknowledged the findings presented. The inspector asked the licensee whether any materials examined during the inspection should be considered proprietary. No proprietary information was identified.
+
+-10On May 16, 2000, the inspectors conducted a meeting with Mr. William A. Eaton and other members of plant management and presented the inspection results. The plant management acknowledged the findings presented. Plant management also informed the inspectors that no proprietary material was examined during the inspection.
+
+ATTACHMENT 1 PARTIAL LIST OF PERSONS CONTACTED C. Bottemiller, Manager, Plant Licensing W. Eaton, Vice President, Operations B. Edwards, Manager, Maintenance C. Ellsaesser, Manager, Corrective Action and Assessment C. Lambert, Director, Engineering L. Patterson, Acting Manager, Technical Support J. Roberts, Director, Nuclear Safety Assessment G. Sparks, Manager, Operations J. Venable, General Manager, Plant Operations R. Wilson, Superintendent, Radiation Protection M. Wright, Manager, Planning and Scheduling M. Larson, Senior Licensing Specialist, Nuclear Safety Assurance N. Edney II, Supervisor, Radiation Protection A. Burkes, Specialist, Radiation Protection B. Patrick, Supervisor, Radiation Protection Support J. Payton, Specialist, Radiation Protection K. Boren, Technician, Radiation Protection
+
+ITEMS OPENED, CLOSED, AND DISCUSSED Opened 50-416/0004-01 Closed 50-416/0004-01 NCV Inadequate survey of items released from the controlled access area (Section 2OS3) NCV Inadequate survey of items released from the controlled access area (Section 2OS3)
+
+LIST OF DOCUMENTS REVIEWED Procedures: 01-S-06-7, "Containment and Drywell Access Control," Revision 102 01-S-08-1, "Administration of the GGNS Radiation Protection Program," Revision 101 01-S-08-2, "Exposure and Contamination Control," Revision 108 01-S-08-3, "Personnel Radiation Exposure Monitoring," Revision 107 01-S-08-4, "Respiratory Protection Program," Revision 22 01-S-08-8, "ALARA Program," Revision 16 01-S-08-26, "Radiological Deficiency Report," Revision 3 01-S-08-27, "Radiological Practices for Controlled Areas," Revision 6 01-S-08-30, "Planned Special Exposures," Revision 0 01-S-08-34, "Radiological Work Planning, Performance, and Reviews," Revision 0 01-S-18-1, "Work Planning and Coordination," Revision 2
+
+-201-S-18-3, "Unplanned Outage Scheduling," Revision 1 01-S-18-4, "Planning Guideline," Revision 0 04-1-01-E51-1, "Reactor Core Isolation Cooling System," Revision 113 04-1-01-P81-1, " High Pressure Core Spray Diesel Generator," Revision 47 04-1-01-Z77-1, " Safeguard Switchgear and Battery Room Ventilation System," Revision 21 05-1-02-II-2, "Off Gas Activity High," Revision 19 05-1-02-II-8, "High Radiation During Fuel Handling," Revision 14 07-S-14-310, "Inspection of Mechanical Seals on Doors," Revision 3. 08-S-01-28, "Use and Control of Temporary Shielding," Revision 10 08-1-01-63, "Radiography Monitoring," Revision 10 08-S-01-70, "Health Physic Instrumentation," Revision 105 08-S-01-82, "Radiological Controls for TIP Operations," Revision 2 08-S-01-92, "Central Facility Instrumentation," Revision 0 08-S-02-20, "Establishing and Posting Controlled Areas," Revision 17 08-S-02-45, "Operation and Maintenance of Baron II SCBA Fill System," Revision 4 08-S-02-50, "Radiological Surveys and Surveillances," Revision 106 08-S-02-109, "Coverage and Control of Diving Operations," Revision 4 08-S-02-114, "Hot Spot Tracking Program," Revision 0 08-S-07-83, "Operation and Calibration of the ND-9000 Whole Body Counter," Revision 7 08-S-07-92, "Operation and Calibration of Scintillation Personnel and Equipment Monitors," Revision 3 08-S-10-04, "Calibration of Portable Dose Rate Instruments," Revision 1 08-S-10-05, "Calibration of Dosimeters," Revision 2 08-S-10-06, "Calibration of Extendable Dose Rate Instruments," Revision 2 08-S-10-08, "Calibration of Portable Count Rate Instruments," Revision 1 17-S-03-28, "Maintenance Rule Program," Revision 2 LI-102, "Corrective Action Process," Revision 0 RP-101, "Prenatal Exposure," Revision 4 Drawings: C-1097, "Unit 1 - Containment Upper Pool Embedments Details," Revision 10 C-1095, "Containment Upper Pool Details," Revision 11 Condition Reports: CR-GGN-2000-0588 CR-GGN-2000-0587 CR-GGN-2000-0585 CR-GGN-2000-0529 CR-GGN-2000-0518 CR-GGN-2000-0512 CR-GGN-2000-0498 CR-GGN-2000-0477 CR-GGN-2000-0052 CR-GGN-1999-1217 CR-GGN-1999-1139 CR-GGN-1999-0947 CR-GGN-1999-0854 CR-GGN-1999-0711 CR-GGN-1999-0597 CR-GGN-1999-0481 CR-GGN-1999-0423 CR-GGN-1999-0420 CR-GGN-1999-0392 CR-GGN-1999-0309 CR-GGN-1999-0239 CR-GGN-1998-1526 CR-GGN-1998-1154 CR-GGN-1998-1106
+
+-3CR-GGN-1998-0930 CR-GGN-1997-0854 CR-GGN-1997-0648
+
+Condition Reports involving radiation monitoring instruments, SCBAs, ALARA, and radiation worker practices (1/1/99 - 4/2/2000) Miscellaneous: Audit Number 198-05, "HP Central Calibration Facility" (7/13-16/98) EOI-S-LP-GET-GRRT.01, "Radiological Respiratory Protection Training" (9/3/98) Exposure goal for 2000 GG-1-LG-GET-RRTH1.01, "Lab Guide," Revision 1 GG-1-LG-GET-RRTH1.01, Attachment II, "Requalification SCBA Respirator Practical Exercise Evaluation" GIN 2000-00095, "WBC Library Review," February 1, 2000 Grand Gulf Nuclear Station ALARA Improvement Plan Grand Gulf Nuclear Station Refueling Outage 10 Critique Hot spot tracking and trending charts, tables and forms Independent laboratory analysis of dry, active waste stream (12/3/98) Maintenance Rule Failure Database "Outside Rounds Sheet," Revision 114 Program Plan GGNS-M-189.1, "GGNS Pump and Valve Inservice Testing Program," Revisions 7, 8, and 9 Program Plan GGNS-M-189.3, "Inservice Testing Basis Document," Revision 1 Quality Program Audit Report QPA 37.01-99, "Health Physics Program" (2/22/99-5/5/99) Quality Program Audit Report QPA 37.01-2000, "Health Physics Program" (2/1-13/2000) Quality Programs Surveillance performed January 26, 1999 "Radiation Protection Standards and Expectations," Revision 6 Radiation work permit exposure summaries (1/1/99 - 5/2000) Shielding tracking logs Source term and dose reduction tables, charts, and graphs Summary of exposures by departments
+
+ATTACHMENT 2 NRC'S REVISED REACTOR OVERSIGHT PROCESS The federal Nuclear Regulatory Commission (NRC) revamped its inspection, assessment, and enforcement programs for commercial nuclear power plants. The new process takes into account improvements in the performance of the nuclear industry over the past 25 years and improved approaches of inspecting safety performance at NRC licensed plants. The new process monitors licensee performance in three broad areas (called strategic performance areas): reactor safety (avoiding accidents and reducing the consequences of accidents if they occur), radiation safety (protecting plant employees and the public during routine operations), and safeguards (protecting the plant against sabotage or other security threats). The process focuses on licensee performance within each of seven cornerstones of safety in the three areas: Reactor Safety ·Initiating Events ·Mitigating Systems ·Barrier Integrity ·Emergency Preparedness Radiation Safety ·Occupational ·Public Safeguards ·Physical Protection
+
+To monitor these seven cornerstones of safety, the NRC used two processes that generate information about the safety significance of plant operations: inspections and performance indicators. Inspection findings will be evaluated according to their potential significance for safety, using the significance determination process, and assigned colors of GREEN, WHITE, YELLOW, or RED. GREEN findings are indicative of issues that, while they may not be desirable, represent very low safety significance. WHITE findings indicate issues that are of low to moderate safety significance. YELLOW findings are issues that are of substantial safety significance. RED findings represent issues that are of high safety significance with a significant reduction in safety margin. Performance indicator data will be compared to established criteria for measuring licensee performance in terms of potential safety. Based on prescribed thresholds, the indicators will be classified by color representing varying levels of performance and incremental degradation in safety: GREEN, WHITE, YELLOW, or RED. GREEN indicators represent performance at a level requiring no additional NRC oversight beyond the baseline inspections. WHITE corresponds to performance that may result in increased NRC oversight. YELLOW represents performance that minimally reduces safety margin and requires even more NRC oversight. And RED indicates performance that represents a significant reduction in safety margin but still provides adequate protection to public health and safety. The assessment process integrates performance indicators and inspection so the agency can reach objective conclusions regarding overall plant performance. The agency will use an Action Matrix to determine in a systematic, predictable manner which regulatory actions should be taken based on a licensee's performance. The NRC's actions in response to the significance (as represented by the color) of issues will be the same for performance indicators as for inspection findings. As a licensee's safety performance degrades, the NRC will take more and increasingly significant action, which can include shutting down a plan, as described in the
+
+-2Action Matrix. More information can be found at: http:\\www.nrc.gov\NRR\OVERSIGHT\index.html.
+
+
