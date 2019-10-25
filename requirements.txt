@@ -1,15 +1,19 @@
 # Scientific computing
-pandas==
-numpy==
-networkx==
+pandas==0.25.1
+numpy==1.17.2
+networkx==2.3
 
 # Deep Learning
-keras==
-tensorflow==
-nltk==
+keras==2.3.1
+tensorflow==1.14.0
+nltk==3.4.5
 
 # Web application
-flask==
+flask==1.1.1
+flask_socketio==4.2.1
+persist-queue==0.4.2
+werkzeug==0.15.6
+jinja2==2.10.1
 
 # Data Visualization
-matplotlib==
+matplotlib==3.1.1

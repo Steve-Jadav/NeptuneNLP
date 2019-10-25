@@ -46,18 +46,16 @@ class Views(object):
             print (classes[x])
 
         context = {'data': data, 'classes': classes}
+
         filehandler = open('context.pkl', 'wb')
         pickle.dump(context, filehandler)
         filehandler.close()
-        #print ('Starting multiprocess')
-        #p = multiprocessing.Process(target=self.get_context)
-        #p.start()
 
         filehandler = open('context.pkl', 'rb')
         context = pickle.load(filehandler)
         filehandler.close()
+
         return context
-        #return render(request, "textViewer.html", context)
 
 
     def get_file_content(self)->str:

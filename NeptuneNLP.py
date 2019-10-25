@@ -31,7 +31,6 @@ thread_lock = Lock()
 clients = set()
 
 
-
 """
 Each of the following routes redirect you to the 'summarization.html' page.
 Multiple routes are assigned to this page, because it is supposed to
@@ -120,7 +119,7 @@ def request_thread_reader():
                     else:
                         task['summary'] = summarize_tf(task['text'], keywords=task['keywords'] if 'keywords' in task else [], count=task['n'])
                     del task['text']
-                elif task['type'] == 'QnA': 
+                elif task['type'] == 'QnA':
                     print (task['question'])
                     task['answer'] = get_response(task['text'], task['question'])
 
