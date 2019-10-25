@@ -6,6 +6,7 @@ from heapq import nlargest, heappush, heappop
 import pandas as pd
 import numpy as np
 import networkx as nx
+import os
 
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -50,8 +51,8 @@ def summarize_tf(text, count=10, min_cut=0.5, max_cut=0.8, keywords=[]):
         ans.append(sentences[i])
     return ans
 
-
-f = open('./vectors.txt', encoding='utf-8')
+vectors_file_path = ''.join(os.path.dirname(os.path.abspath(__file__))) + '/vectors.txt'
+f = open(vectors_file_path, encoding='utf-8')
 vectors = f.readlines()
 
 word_embeddings = {}

@@ -15,10 +15,12 @@ var config = {
 
 var arr = data;
 
-//console.log(typeof (arr))
 
 var words = [];
 var a = arr.split(',')
+
+
+
 for(i=0;i<a.length;i++) {
     var w = a[i].split(':')
     var st = w[0]
@@ -37,8 +39,7 @@ for(i=0;i<a.length;i++) {
             freq+=fr[j];
 
     }
-
-     freq = parseFloat(freq)
+     freq = parseFloat(freq);
     words.push({word: word, freq: freq});
 }
 
@@ -81,9 +82,11 @@ var wordsDown = [];
 
 /* =======================  PLACEMENT FUNCTIONS =======================  */
 function createWordObject(word, freq) {
+
     var wordContainer = document.createElement("div");
     wordContainer.style.position = "absolute";
-    wordContainer.style.fontSize = freq/4 + "px";
+    wordContainer.style.fontSize = freq/2 + "px";
+    console.log('changed frequencies');
     wordContainer.style.lineHeight = config.lineHeight;
 //    wordContainer.style.transform = "translateX(-50%) translateY(-50%)"
     switch (word){
@@ -172,6 +175,7 @@ function intersect(word, x, y) {
 
 /* =======================  LETS GO! =======================  */
 (function placeWords() {
+
     for (var i = 0; i < words.length; i += 1) {
 
         var word = createWordObject(words[i].word, words[i].freq);

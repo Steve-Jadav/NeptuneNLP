@@ -42,7 +42,7 @@ class Views(object):
         # Todo: Cap the values for classes[x] somewhere in this range [1, 27]
         for x in classes:
             print ('classes[x]: ', classes[x])
-            classes[x] = (classes[x] * 100 / total)/1.7
+            classes[x] = classes[x] * 100 / total
             print (classes[x])
 
         context = {'data': data, 'classes': classes}

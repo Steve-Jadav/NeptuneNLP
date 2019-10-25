@@ -1,255 +1,71 @@
 text_x,line,start_pos,end_pos,file,class,prob,predict
-"June 7, 2000",0,0,12,static/uploads/dres_2000006.txt,,,
-"Mr. Oliver D. Kingsley President, Nuclear Generation Group Commonwealth Edison Company ATTN: Regulatory Services Executive Towers West III 1400 Opus Place, Suite 500 Downers Grove, IL 60515 SUBJECT: DRESDEN INSPECTION REPORT 50-237/2000006(DRP); 50-249/2000006(DRP)",2,0,265,static/uploads/dres_2000006.txt,,,
-"Dear Mr. Kingsley: On May 8, 2000, the NRC completed an inspection at Dresden Units 2 and 3.",4,0,92,static/uploads/dres_2000006.txt,,,
-The enclosed report presents the results of that inspection.,4,92,152,static/uploads/dres_2000006.txt,,,
-"The results were discussed on May 8, 2000, with Mr. W. Lipscomb and other members of your staff.",4,152,248,static/uploads/dres_2000006.txt,,,
-This inspection was an examination of activities conducted under your license as they relate to safety and compliance with the Commission's rules and regulations and with the conditions of your license.,4,248,450,static/uploads/dres_2000006.txt,,,
-"Within these areas, the inspection consisted of a selected examination of procedures and representative records, observations of activities, and interviews with personnel.",4,450,621,static/uploads/dres_2000006.txt,,,
-"Based on the results of this inspection, the NRC determined that one violation of NRC requirements occurred due to a procedure implementation error which resulted in a Unit 3 reactor scram.",4,621,810,static/uploads/dres_2000006.txt,,,
-This event was evaluated under the risk significance determination process which determined that the event was of very low safety significance (Green).,4,810,961,static/uploads/dres_2000006.txt,,0.998199999332428,Procedural&Team
-This issue has been entered into your corrective action program and is discussed in the summary of findings and in the report.,4,961,1087,static/uploads/dres_2000006.txt,,,
-"This violation is being treated as a non-cited violation (NCV), consistent with Section VI.A.1 of the Enforcement Policy.",4,1087,1208,static/uploads/dres_2000006.txt,,0.9350000023841858,Planning
-This NCV is described in the subject inspection report.,4,1208,1263,static/uploads/dres_2000006.txt,,0.972100019454956,Cognition
-"If you contest this NCV, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the Nuclear Regulatory Commission, ATTN: Document Control Desk, Washington, D.C. 20555-0001; with copies to the Regional Administrator, Region III; the Director, Office of Enforcement, United States Nuclear Regulatory Commission, Washington, D.C. 20555-0001; and the NRC Resident Inspector at the Dresden facility.",4,1263,1721,static/uploads/dres_2000006.txt,,,
-O. Kingsley,6,0,12,static/uploads/dres_2000006.txt,,,
--2-,8,0,3,static/uploads/dres_2000006.txt,,,
-"In accordance with 10 CFR 2.790 of the NRC's ""Rules of Practice,"" a copy of this letter and its enclosure will be placed in the NRC Public Document Room, and will be available on the NRC Public Electronic Reading Room (PERR) link at the NRC home page, http://www.nrc.gov/NRC/ADAMS/index.html.",10,0,292,static/uploads/dres_2000006.txt,,,
-"Sincerely,",10,292,302,static/uploads/dres_2000006.txt,,,
-/RA/,12,0,4,static/uploads/dres_2000006.txt,,,
-"Mark Ring, Chief Reactor Projects Branch 1",13,0,42,static/uploads/dres_2000006.txt,,,
-Docket Nos.,15,0,11,static/uploads/dres_2000006.txt,,,
-50-237; 50-249 License Nos.,15,11,38,static/uploads/dres_2000006.txt,,,
-"DPR-19; DPR-25 Enclosure: Inspection Report 50-237/2000006(DRP); 50-249/2000006(DRP) D. Helwig, Senior Vice President, Nuclear Services C. Crane, Senior Vice President, Nuclear Operations H. Stanley, Vice President, Nuclear Operations R. Krich, Vice President, Regulatory Services DCD - Licensing P. Swafford, Site Vice President Robert Fisher, Station Manager D. Ambler, Regulatory Assurance Manager M. Aguilar, Assistant Attorney General State Liaison Officer Chairman, Illinois Commerce Commission",15,38,538,static/uploads/dres_2000006.txt,,0.9911999702453613,Procedural&Team
-cc w/encl:,17,0,10,static/uploads/dres_2000006.txt,,,
-DOCUMENT NAME: G:\DRES\IR2000006.wpd,19,0,36,static/uploads/dres_2000006.txt,,,
-"To receive a copy of this document, indicate in the box ""C"" = Copy w/o att/encl ""E"" = Copy w/att/encl ""N"" = No copy",20,0,115,static/uploads/dres_2000006.txt,,,
-OFFICE NAME DATE,22,0,16,static/uploads/dres_2000006.txt,,,
-RIII RLerch/trn 06/ /00,24,0,23,static/uploads/dres_2000006.txt,,,
-E,26,0,1,static/uploads/dres_2000006.txt,,,
-RIII MRing,28,0,10,static/uploads/dres_2000006.txt,,,
-E,30,0,1,static/uploads/dres_2000006.txt,,,
-06/ /00 OFFICIAL RECORD COPY,32,0,28,static/uploads/dres_2000006.txt,,,
-O. Kingsley,34,0,12,static/uploads/dres_2000006.txt,,,
--3-,36,0,3,static/uploads/dres_2000006.txt,,,
-ADAMS Distribution: AJM (E-Mail) WES(E-Mail) LWR (Project Mgr.),38,0,63,static/uploads/dres_2000006.txt,,,
-"w/encl J. Caldwell, RIII w/encl B. Clayton, RIII w/encl SRI Dresden w/encl DRP w/encl DRS w/encl RIII PRR w/encl PUBLIC IE-01 w/encl Docket File w/encl GREENS RIII_IRTS DOCDESK JRK1 BAH3",38,63,249,static/uploads/dres_2000006.txt,,,
-U. S. NUCLEAR REGULATORY COMMISSION REGION III,40,0,47,static/uploads/dres_2000006.txt,,,
-Docket Nos: License Nos:,42,0,24,static/uploads/dres_2000006.txt,,,
-50-237; 50-249 DPR-19; DPR-25,44,0,29,static/uploads/dres_2000006.txt,,,
-Report No:,46,0,10,static/uploads/dres_2000006.txt,,,
-50-237/2000006(DRP); 50-249/2000006(DRP),48,0,40,static/uploads/dres_2000006.txt,,,
-Licensee:,50,0,9,static/uploads/dres_2000006.txt,,,
-Commonwealth Edison Company (ComEd),52,0,35,static/uploads/dres_2000006.txt,,,
-Facility:,54,0,9,static/uploads/dres_2000006.txt,,,
-"Dresden Nuclear Power Station, Units 2 and 3",56,0,44,static/uploads/dres_2000006.txt,,,
-Location:,58,0,9,static/uploads/dres_2000006.txt,,,
-"6500 North Dresden Road Morris, IL 60450",60,0,40,static/uploads/dres_2000006.txt,,,
-Dates:,62,0,6,static/uploads/dres_2000006.txt,,,
-"April 2 through May 8, 2000",64,0,27,static/uploads/dres_2000006.txt,,,
-Inspectors:,66,0,11,static/uploads/dres_2000006.txt,,,
-"D. Smith, Senior Resident Inspector B. Dickson, Resident Inspector D. Roth, Resident Inspector R. Zuffa, Illinois Department of Nuclear Safety",68,0,142,static/uploads/dres_2000006.txt,,,
-Approved by:,70,0,12,static/uploads/dres_2000006.txt,,,
-"Mark Ring, Chief Reactor Projects Branch 1 Division of Reactor Projects",72,0,71,static/uploads/dres_2000006.txt,,,
-NRC's REVISED REACTOR OVERSIGHT PROCESS,74,0,40,static/uploads/dres_2000006.txt,,,
-"The federal Nuclear Regulatory Commission (NRC) recently revamped its inspection, assessment, and enforcement programs for commercial nuclear power plants.",75,0,155,static/uploads/dres_2000006.txt,,,
-The new process takes into account improvements in the performance of the nuclear industry over the past 25 years.,75,155,269,static/uploads/dres_2000006.txt,,,
-The process also considers improved approaches of inspecting and assessing safety performance at NRC-licensed plants.,75,269,386,static/uploads/dres_2000006.txt,,,
-"The new process monitors licensee performance in the following three broad areas (called strategic performance areas): reactor safety (avoiding accidents and reducing the consequences of accidents if they occur), radiation safety (protecting plant employees and the public during routine operations), and safeguards (protecting the plant against sabotage or other security threats).",75,386,768,static/uploads/dres_2000006.txt,,0.9855999946594238,Procedural&Team
-The process focuses on licensee performance in the following seven cornerstones of safety within the three strategic performance areas: Reactor Safety ÿ Initiating Events ÿ Mitigating Systems ÿ Barrier Integrity ÿ Emergency Preparedness Radiation Safety ÿ Occupational ÿ Public Safeguards ÿ Physical Protection,75,768,1078,static/uploads/dres_2000006.txt,,,
-"To monitor these seven cornerstones of safety, the NRC uses two processes that generate information about the safety significance of plant operations.",77,0,150,static/uploads/dres_2000006.txt,,0.9969000220298767,Procedural&Team
-The processes are inspections and performance indicators.,77,150,207,static/uploads/dres_2000006.txt,,,
-"Inspection findings will be evaluated according to their potential significance for safety, using the Significance Determination Process, and assigned colors of GREEN, WHITE, YELLOW or RED.",77,207,396,static/uploads/dres_2000006.txt,,0.9975000023841858,Procedural&Team
-"GREEN findings are indicative of issues that, while they may not be desirable, represent very low safety significance.",77,396,514,static/uploads/dres_2000006.txt,,0.9965999722480774,Procedural&Team
-WHITE findings indicate issues that are of low to moderate safety significance.,77,514,593,static/uploads/dres_2000006.txt,,0.9972000122070312,Procedural&Team
-YELLOW findings are issues that are of substantial safety significance.,77,593,664,static/uploads/dres_2000006.txt,,0.9972000122070312,Procedural&Team
-RED findings represent issues that are of high safety significance with a significant reduction in safety margins.,77,664,778,static/uploads/dres_2000006.txt,,0.9914000034332275,Procedural&Team
-Performance indicator data will be compared with established criteria for measuring licensee performance in terms of potential safety.,77,778,912,static/uploads/dres_2000006.txt,,,
-"Based on prescribed thresholds, the indicators will be classified by color representing varying levels of performance and incremental degradation in safety: GREEN, WHITE, YELLOW, and RED.",77,912,1099,static/uploads/dres_2000006.txt,,,
-GREEN indicators represent performance at a level requiring no additional NRC oversight beyond the baseline inspections.,77,1099,1219,static/uploads/dres_2000006.txt,,0.909600019454956,Planning
-WHITE corresponds to performance that may result in increased NRC oversight.,77,1219,1295,static/uploads/dres_2000006.txt,,,
-YELLOW represents performance that minimally reduces safety margin and requires even more NRC oversight.,77,1295,1399,static/uploads/dres_2000006.txt,,,
-RED indicates performance that represents a significant reduction in safety margin but still provides adequate protection to public health and safety.,77,1399,1549,static/uploads/dres_2000006.txt,,,
-The assessment process integrates performance indicators and inspection so the agency can reach objective conclusions regarding overall plant performance.,77,1549,1703,static/uploads/dres_2000006.txt,,,
-"The agency will use an Action Matrix to determine, in a systematic and predictable manner, which regulatory actions should be taken based on a licensee's performance.",77,1703,1869,static/uploads/dres_2000006.txt,,0.9696000218391418,Planning
-The NRC's actions in response to the significance (as represented by the color) of issues will be the same for performance indicators as for inspection findings.,77,1869,2030,static/uploads/dres_2000006.txt,,0.9855999946594238,Procedural&Team
-"As a licensee's safety performance degrades, the NRC will take more and increasingly significant action, including shutting down a plant, as described in the Action Matrix.",77,2030,2202,static/uploads/dres_2000006.txt,,,
-More information can be found at: http://www.nrc.gov/NRR/OVERSIGHT/index.html.,77,2202,2280,static/uploads/dres_2000006.txt,,,
-2,77,2280,2281,static/uploads/dres_2000006.txt,,,
-"SUMMARY OF FINDINGS Dresden Nuclear Power Station, Units 2 & 3 NRC Inspection Report 50-237/2000006(DRP); 50-249/2000006(DRP) The report covers a 5-week period of resident inspection.",79,0,184,static/uploads/dres_2000006.txt,,,
-"The significance of issues is indicated by their color (green, white, yellow, red) and was determined by the Significance Determination Process in Inspection Manual Chapter 0609.",79,184,362,static/uploads/dres_2000006.txt,,0.9958999752998352,Procedural&Team
-Initiating Events · GREEN.,79,362,388,static/uploads/dres_2000006.txt,,,
-"The licensee used the incorrect trip time range criteria for testing the reactor protection system motor generator ""B"" feeder breaker thermal overload relay.",79,388,545,static/uploads/dres_2000006.txt,,,
-This error resulted in an uncomplicated Unit 3 trip.,79,545,597,static/uploads/dres_2000006.txt,,,
-All mitigation systems remained operable and barrier integrity was not challenged.,79,597,679,static/uploads/dres_2000006.txt,,,
-A non-cited violation (NCV) was documented for failure to follow a procedure.,79,679,756,static/uploads/dres_2000006.txt,,,
-(Section 1R14.2) The risk significance of the reactor scram was very low since the scram was uncomplicated and all mitigating systems remained operable.,79,756,908,static/uploads/dres_2000006.txt,,0.9965000152587891,Procedural&Team
-3,81,0,1,static/uploads/dres_2000006.txt,,,
-Report Details Summary of Plant Status Unit 2 began this inspection period at full power.,83,0,90,static/uploads/dres_2000006.txt,,,
-Unit 2 remained at full power throughout the inspection period (except for minor load drops to support planned activities).,83,90,213,static/uploads/dres_2000006.txt,,,
-Unit 3 began the inspection period at full power and remained at full power throughout the inspection period (except for minor load drops to support planned activities) with the following exceptions.,83,213,412,static/uploads/dres_2000006.txt,,,
-"On May 3, 2000, Unit 3 scrammed from 100 percent power.",83,412,467,static/uploads/dres_2000006.txt,,,
-The scram occurred when the feed breaker to the normal power supply for the `A' reactor protection system (RPS) bus unexpectedly tripped on thermal overloads while the `B' RPS bus was tripped as part of planned maintenance.,83,467,690,static/uploads/dres_2000006.txt,,0.9628999829292297,Procedural&Team
-The licensee commenced a startup by May 4.,83,690,732,static/uploads/dres_2000006.txt,,,
-"However, on May 4, 2000, the licensee manually scrammed the Unit 3 reactor from approximately 20 percent power due to decreasing condenser vacuum and increasing condensate hotwell water temperature.",83,732,930,static/uploads/dres_2000006.txt,,,
-The 3A train of the offgas steam jet air ejector system was unable to maintain condenser vacuum.,83,930,1026,static/uploads/dres_2000006.txt,,,
-The licensee restarted the unit and restored the unit to near full power by May 8.,83,1026,1108,static/uploads/dres_2000006.txt,,,
-1.,83,1108,1110,static/uploads/dres_2000006.txt,,,
-"REACTOR SAFETY Cornerstones: Initiating Events, Mitigating Systems, Barrier Integrity 1R04 Equipment Alignment (71111.04) a.",83,1110,1234,static/uploads/dres_2000006.txt,,,
-Inspection Scope The inspectors performed a complete walk down of accessible portions of the Unit 3 automatic depressurization system and the isolation condenser to verify system operability.,83,1234,1425,static/uploads/dres_2000006.txt,,,
-The inspectors verified that the isolation condenser and the automatic depressurization systems were properly aligned.,83,1425,1543,static/uploads/dres_2000006.txt,,,
-Instrumentation valve configurations and appropriate meter indications were also observed.,83,1543,1633,static/uploads/dres_2000006.txt,,,
-"Proper installation of hangers and supports were periodically observed during the walk down, and operational status of support systems was verified by direct observation of various parameters.",83,1633,1825,static/uploads/dres_2000006.txt,,,
-Control room switch positions for the isolation condenser and automatic depressurization systems were observed.,83,1825,1936,static/uploads/dres_2000006.txt,,,
-"Other conditions such as adequacy of housekeeping, the absence of ignition sources, and proper labeling, were also evaluated.",83,1936,2061,static/uploads/dres_2000006.txt,,0.9983000159263611,Performance
-b.,83,2061,2063,static/uploads/dres_2000006.txt,,,
-Issues and Findings There were no findings identified and documented during this inspection,83,2063,2154,static/uploads/dres_2000006.txt,,,
-4,85,0,1,static/uploads/dres_2000006.txt,,,
-1R05 Fire Protection (71111.05) a.,87,0,35,static/uploads/dres_2000006.txt,,0.9204999804496765,Planning
-Inspection Scope The inspectors walked down the Unit 3 fire zone 11.2.2 (low pressure coolant injection system southeast corner room).,87,35,169,static/uploads/dres_2000006.txt,,,
-"The inspectors focused emphasis on control of transient combustibles and ignition sources; the material condition, operational lineup, and operational effectiveness of the fire protection systems, equipment, and features; and the material condition and operational status of fire barriers used to prevent fire damage or fire propagation.",87,169,506,static/uploads/dres_2000006.txt,,,
-"Specifically, the inspectors verified that all observed transient combustibles were controlled by the licensee's administrative control procedures.",87,506,653,static/uploads/dres_2000006.txt,,0.9876999855041504,Team & Organization
-"The inspectors also observed the physical condition of fire detection and suppression devices, and verified that any observed deficiencies did not adversely affect the operability of the system.",87,653,847,static/uploads/dres_2000006.txt,,0.9769999980926514,Management
-"In addition, the inspectors verified that the location of the fire fighting equipment was appropriate.",87,847,949,static/uploads/dres_2000006.txt,,,
-The low pressure coolant injection system in the fire zone inspected was risk-significant.,87,949,1039,static/uploads/dres_2000006.txt,,,
-b.,87,1039,1041,static/uploads/dres_2000006.txt,,,
-Issues and Findings There were no findings identified and documented during this inspection.,87,1041,1133,static/uploads/dres_2000006.txt,,,
-1R12 Maintenance Rule Implementation (71111.12) a.,87,1133,1183,static/uploads/dres_2000006.txt,,0.9196000099182129,Planning
-Inspection Scope The inspectors reviewed the licensee's implementation of the maintenance rule requirements for the following systems: 1.,87,1183,1320,static/uploads/dres_2000006.txt,,,
-2.,87,1320,1322,static/uploads/dres_2000006.txt,,,
-3.,87,1322,1324,static/uploads/dres_2000006.txt,,,
-Unit 3 low pressure coolant injection system post accident monitoring system reactor building ventilation system,87,1324,1436,static/uploads/dres_2000006.txt,,,
-These systems were selected based upon recent reliability and availability issues regarding required control room indication for each system.,89,0,141,static/uploads/dres_2000006.txt,,,
-"The inspectors independently verified the licensee's implementation of the maintenance rule for these systems by verifying that these systems were properly scoped within the maintenance rule in accordance with 10 CFR 50.65 and verified the licensee's characterization of the failed structures, systems, and components.",89,141,459,static/uploads/dres_2000006.txt,,,
-The inspectors also verified that issues were identified at an appropriate threshold and entered into the corrective action program.,89,459,591,static/uploads/dres_2000006.txt,,,
-b.,89,591,593,static/uploads/dres_2000006.txt,,,
-Issues and Findings There were no findings associated with this inspection activity.,89,593,677,static/uploads/dres_2000006.txt,,,
-5,91,0,1,static/uploads/dres_2000006.txt,,,
-1R13 Maintenance Risk Assessments and Emergent Work (71111.13) a.,93,0,66,static/uploads/dres_2000006.txt,,,
-Inspection Scope The inspectors evaluated the effectiveness of the risk assessments performed before maintenance activities were conducted on plant equipment and verified how the licensee managed the risk.,93,66,271,static/uploads/dres_2000006.txt,,,
-"The inspectors also verified that, upon the identification of unforeseen situations, the licensee had taken the necessary steps to plan and control the resulting emergent work activities, and verified that the licensee had adequately identified and resolved maintenance risk assessments and emergent work problems.",93,271,585,static/uploads/dres_2000006.txt,,,
-Work reviewed included the following work requests (WR): · · · · WR 990165233 WR 990166523 WR 990167447 WR 990167811 Rebuild 2A Control Rod Drive Pump Unit 2 Torus Narrow Range Level Disabling of 2B Moisture Separator Level Hi and Hi-Hi Alarm Turbine Trip Logic Disassemble the High Pressure Coolant Injection Stop Valve Oil Shuttle Valve Spool,93,585,929,static/uploads/dres_2000006.txt,,,
-b.,95,0,2,static/uploads/dres_2000006.txt,,,
-Issues and Findings There were no findings associated with this inspection activity.,97,0,84,static/uploads/dres_2000006.txt,,,
-1R14 Non Routine Plant Evolutions (71111.14) a.,99,0,47,static/uploads/dres_2000006.txt,,,
-Inspection Scope The inspectors observed licensee performance during the following nonroutine conditions.,99,47,152,static/uploads/dres_2000006.txt,,,
-"Automatic reactor scram of Unit 3 on May 3, 2000, from 100 percent power during reactor protection system (RPS) bus power supply swaps.",99,152,287,static/uploads/dres_2000006.txt,,,
-"Manual scram of Unit 3 from 20 percent power on May 4, 2000, due to low condenser vacuum conditions.",99,287,387,static/uploads/dres_2000006.txt,,,
-b.,99,387,389,static/uploads/dres_2000006.txt,,,
-"Issues and Findings Event After maintenance on the 3B RPS motor generator set drive motor feeder breaker, Unit 3 scrammed from 100 percent power on May 3, 2000.",99,389,549,static/uploads/dres_2000006.txt,,0.9424999952316284,Procedural&Team
-The inspectors reviewed the circumstances surrounding the cause of the scram and the availability of alternate mitigation capabilities.,99,549,684,static/uploads/dres_2000006.txt,,0.9868000149726868,Management
-"On May 2, 2000, the operators placed the ""A"" RPS bus on reserve power to support the performance of a 6-year preventive maintenance activity to clean, lubricate, and inspect the ""B"" RPS motor generator set feeder breaker which feeds the ""A"" RPS bus.",99,684,933,static/uploads/dres_2000006.txt,,,
-The 6,99,933,938,static/uploads/dres_2000006.txt,,,
-"inspectors determined that the electrician performing the maintenance used Dresden Electrical Surveillance (DES) 7300-05, ""Maintenance and Surveillance of Environmental Qualification and Safety-Related 480 Volt Motor Control Center (MCC),"" Revision 11.",101,0,253,static/uploads/dres_2000006.txt,,,
-"Step I.16, ""Overload Trip Test Times,"" specified an acceptable trip time range of 23 to 41.5 seconds for the thermal overload of a K-series heater.",101,253,400,static/uploads/dres_2000006.txt,,,
-"However, the electrician mistakenly selected acceptance criteria for an L-series heater (8.5 to 21 seconds).",101,400,508,static/uploads/dres_2000006.txt,,,
-Both K-series and L-series values were listed in the procedure.,101,508,571,static/uploads/dres_2000006.txt,,,
-"The test results demonstrated that the feeder breaker thermal overload was tripping at approximately 13 seconds, so it was accepted.",101,571,703,static/uploads/dres_2000006.txt,,,
-"In fact, the thermal overload was outside of the proper acceptance range of 23 to 41.5 seconds.",101,703,798,static/uploads/dres_2000006.txt,,,
-The electrician forwarded the Dresden Electrical Surveillance to the supervisor.,101,798,878,static/uploads/dres_2000006.txt,,,
-The supervisor also failed to identify that the incorrect trip acceptance time range was used.,101,878,972,static/uploads/dres_2000006.txt,,,
-"The electrician reinstalled the MCC bucket and successfully returned the ""A"" RPS bus to its normal power supply.",101,972,1084,static/uploads/dres_2000006.txt,,,
-"On May 3, 2000, in preparation for performing 6-year preventive maintenance activities on the normal power supply for the ""B"" RPS bus, the operators placed the ""B"" RPS on reserve power.",101,1084,1269,static/uploads/dres_2000006.txt,,,
-During this power swap the operators received an expected ½ scram signal.,101,1269,1342,static/uploads/dres_2000006.txt,,,
-"Concurrent with this ½ scram signal being present, the ""B"" RPS motor generator set feeder breaker (feeding the ""A"" RPS bus) tripped due to the thermal overload relay tripping since the electrician used the incorrect test criteria.",101,1342,1572,static/uploads/dres_2000006.txt,,,
-"The ""A"" RPS bus tripped and a full scram signal was generated.",101,1572,1634,static/uploads/dres_2000006.txt,,,
-The plant scrammed as designed and did not experience any problems.,101,1634,1701,static/uploads/dres_2000006.txt,,,
-The licensee's investigation concluded that the scram was due to human error when the electrician used the incorrect testing criteria.,101,1701,1835,static/uploads/dres_2000006.txt,,,
-"Technical Specification (TS) 6.8.A states that written procedures shall be established, implemented, and maintained covering the activities recommended in Appendix A of Regulatory Guide 1.33, Revision 2, February 1978.",101,1835,2053,static/uploads/dres_2000006.txt,,,
-The failure to implement DES 730005 for the correct overload trip testing criteria is a violation.,101,2053,2151,static/uploads/dres_2000006.txt,,,
-"This violation is being treated as a non-cited violation (NCV), consistent with Section VI.A.1 of the NRC Enforcement Policy NCV 50-249/2000006-01(DRP)).",101,2151,2304,static/uploads/dres_2000006.txt,,,
-This issue is in the licensee's corrective action program as problem identification form # D2000-02598.,101,2304,2407,static/uploads/dres_2000006.txt,,,
-"Following restart, on May 4, 2000, at approximately 8:18 p.m., the licensee manually scrammed the Unit 3 reactor from approximately 20 percent power.",101,2407,2556,static/uploads/dres_2000006.txt,,,
-The licensee initiated the manual scram due to decreasing condenser vacuum and increasing condensate hotwell water temperature.,101,2556,2683,static/uploads/dres_2000006.txt,,,
-Plant equipment operated properly during and following the scram except for the feedwater regulating valves.,101,2683,2791,static/uploads/dres_2000006.txt,,,
-The feedwater regulating valves were leaking by and caused reactor pressure vessel water level to increase to 43 inches.,101,2791,2911,static/uploads/dres_2000006.txt,,,
-The licensee subsequently closed the two in-series feedwater line stop valves which terminated the leakage into the reactor.,101,2911,3035,static/uploads/dres_2000006.txt,,0.9966999888420105,Procedural&Team
-Preliminary information from the licensee indicated that the decreased vacuum and subsequent scram were due to problems with the 3A train of the offgas system.,101,3035,3194,static/uploads/dres_2000006.txt,,,
-Significance Determination Process The inspectors assessed the scrams using the NRC's Significance Determination Process.,101,3194,3315,static/uploads/dres_2000006.txt,,0.9980000257492065,Procedural&Team
-The Unit 3 reactor scrams were uncomplicated and did not adversely affect,101,3315,3388,static/uploads/dres_2000006.txt,,,
-7,103,0,1,static/uploads/dres_2000006.txt,,,
-any mitigating systems.,105,0,24,static/uploads/dres_2000006.txt,,,
-"Therefore, these events were determined to be very low safety significance, ""Green"", during the Phase 1 evaluation.",105,24,139,static/uploads/dres_2000006.txt,,0.9345999956130981,Procedural&Team
-1R15 Operability Evaluations (71111.15) a.,105,139,181,static/uploads/dres_2000006.txt,,,
-"Inspection Scope The inspectors reviewed the technical adequacy of operability evaluations to ensure that the operability evaluations were properly justified and the system remained available, and no unrecognized increase in risk occurred.",105,181,420,static/uploads/dres_2000006.txt,,0.9352999925613403,Cognition
-The review included the following operability evaluations: ÿ ÿ ÿ b. Operability Determination/ER# 00-017-Secondary Containment and 2/3 Emergency Diesel Generator Room Door.,105,420,592,static/uploads/dres_2000006.txt,,,
-Operability Determination #00-017-Main Steam Tunnel Leak Detection Capability.,105,592,670,static/uploads/dres_2000006.txt,,,
-Operability Determination #00-020-Automatic Depressurization System Operability with Unattached Control Spring on Relays.,105,670,791,static/uploads/dres_2000006.txt,,0.995199978351593,Procedural&Team
-Issues and Findings There were no findings associated with this inspection activity.,107,0,84,static/uploads/dres_2000006.txt,,,
-1R16 Operator Work-Arounds (71111.16) a.,109,0,40,static/uploads/dres_2000006.txt,,0.9370999932289124,Planning
-Inspection Scope The inspectors performed the semi-annual review of operator work-arounds.,109,40,130,static/uploads/dres_2000006.txt,,,
-"The inspectors reviewed all 18 of the licensee's operator work-arounds that were open on April 25, 2000, to assess any potential effect on the functionality of mitigating systems.",109,130,309,static/uploads/dres_2000006.txt,,,
-"The inspectors reviewed ComEd procedure OP-AA-101-303, ""Operator Work-Around Program,"" Revision 0.",109,309,407,static/uploads/dres_2000006.txt,,,
-Below are examples of the work-arounds: #3-OB-08 #2-OB-07 #2-OB-08 #3-OB-05 #3-OB-07 #2-9-02 #3-96-14 #3-99-02 #3-99-04 b.,109,407,529,static/uploads/dres_2000006.txt,,,
-2/3 F Lift Pump Experiences Difficulty When Starting 2B Reactor Building Exhaust Fan Backdraft Damper 50percent Unit 2 Reactor Feed Pump Ventilation 3B1 and 3B2 Heater Spills Biased Open 3b Low Pressure Coolant Injection Pump Is in Alert Range 2-1501-21A/B Valve 5 Minute Timer During LOCA Unit 3 off Gas Hydrogen Analyzer Area Heaters Unit 3 ARCS 3-5599-424 Valve Leak by the 3A Feedwater Regulating Valve,109,529,935,static/uploads/dres_2000006.txt,,,
-Issues and Findings There were no findings associated with this inspection activity.,111,0,84,static/uploads/dres_2000006.txt,,,
-8,113,0,1,static/uploads/dres_2000006.txt,,,
-1R19 Post Maintenance Testing (71111.19) a.,115,0,44,static/uploads/dres_2000006.txt,,0.9314000010490417,Planning
-Inspection Scope The inspectors observed the post-maintenance testing activities associated with the Unit 2 emergency generator after the licensee repaired a solder connection on the governor wiring.,115,44,243,static/uploads/dres_2000006.txt,,,
-The post-maintenance test (WR No.,115,243,276,static/uploads/dres_2000006.txt,,,
-990165273) included verifying that the emergency diesel generator achieved rated speed and voltage upon a start and could maintain load for 60 minutes.,115,276,427,static/uploads/dres_2000006.txt,,,
-"During the post-maintenance testing observations, the inspectors verified that the test was adequate for the scope of the maintenance work performed, and that the testing acceptance criteria were clear and demonstrated operational readiness consistent with the design and licensing basis documents.",115,427,725,static/uploads/dres_2000006.txt,,,
-"Following the completion of the test, the inspectors verified that the test equipment was removed, and that the equipment was returned to a condition in which it could perform its safety function.",115,725,921,static/uploads/dres_2000006.txt,,,
-b.,115,921,923,static/uploads/dres_2000006.txt,,,
-Issues and Findings There were no findings identified and documented during this inspection.,115,923,1015,static/uploads/dres_2000006.txt,,,
-1R22 Surveillance Testing (71111.22) a.,115,1015,1054,static/uploads/dres_2000006.txt,,,
-Inspection Scope The inspectors observed surveillance testing on risk-significant equipment.,115,1054,1146,static/uploads/dres_2000006.txt,,,
-"The inspectors verified that the selected plant equipment could perform intended safety functions and satisfied the requirements contained in TSs, the Updated Final Safety Analysis Report, and licensee procedures.",115,1146,1359,static/uploads/dres_2000006.txt,,,
-The inspectors verified that the tests were adequate to prove operational readiness consistent with the design and licensing basis documents and that the testing acceptance criteria were clear.,115,1359,1552,static/uploads/dres_2000006.txt,,,
-The tests were performed as-written and all testing prerequisites were satisfied.,115,1552,1633,static/uploads/dres_2000006.txt,,,
-"The test data sheets were complete, appropriately verified, and met the requirements of the testing procedure.",115,1633,1743,static/uploads/dres_2000006.txt,,0.9995999932289124,Performance
-"Following the completion of the tests, the inspectors verified that the test equipment was removed, and that the equipment was properly restored to standby conditions.",115,1743,1910,static/uploads/dres_2000006.txt,,,
-The following surveillance testing activities were observed: Standby Liquid Control Tank Temperature Indicating Controller Calibration -DIS 1100-01 Standby Gas Treatment Monthly Operability Surveillance - DOS 7501-01 2/3 Annual Diesel Fire Pump Flow Capacity Test - DFPS 4123-06 Station Blackout (SBO) 2(3) Diesel Generator Endurance and Margin/Full Load Test/Full Load Reject Test - DOS 6620-01 b.,115,1910,2308,static/uploads/dres_2000006.txt,,,
-"Issues and Findings There were no findings identified with the surveillance testing activities, however, there were performance issues with operator actions taken when the SBO diesel generator (DG) lost control power.",115,2308,2525,static/uploads/dres_2000006.txt,,,
-9,115,2525,2526,static/uploads/dres_2000006.txt,,,
-"Operator Response to a Dresden Unit 2 Station Blackout (SBO) Diesel Generator (DG) Loss of Control Power Event Description On April 28, 2000 at 11:30 p.m., the licensee started the Unit 2 SBO diesel for a 24-hour endurance run.",117,0,228,static/uploads/dres_2000006.txt,,,
-"Approximately 2.5 hours later, the licensee received a ""U2 SBO DG Room Temp Hi"" alarm in the control room.",117,228,334,static/uploads/dres_2000006.txt,,0.9796000123023987,Procedural&Team
-"Shortly afterwards, the licensee received several other control room and local alarms, including ""Controls in Local,"" ""DG not Available,"" ""Gen Not Available,"" and ""Bus 23/24 Tie Breaker Trouble.""",117,334,529,static/uploads/dres_2000006.txt,,,
-"In addition, the reactor operators performing the surveillance in the control room noted that the SBO diesel display indicated -120 kW and -4763 kVars for SBO diesel output.",117,529,702,static/uploads/dres_2000006.txt,,,
-"The reactor operators verified that the diesel's system parameters such as jacket temperature, cylinder temperatures, and lube oil system pressure, were within the normal range as indicated by the SBO display.",117,702,911,static/uploads/dres_2000006.txt,,0.9549999833106995,Performance
-The reactor operators dismissed the negative readings on the SBO diesel display because the readings were flagged with a bad input/output (BAD I/O) signal.,117,911,1066,static/uploads/dres_2000006.txt,,0.9455000162124634,Performance
-"Locally the ""DG Auxiliary Equipment Not in Auto"" and ""Generator Locked Out"" alarms were received.",117,1066,1163,static/uploads/dres_2000006.txt,,,
-"Operators in the diesel generator room also noted that local light indications on many local panels were lost and relay targets were up for panels 2-6601-1-40 and 2-6620-1-32, ""Gen Loss of Excitation Flag"" and ""Reverse Power Relay,"" respectively.",117,1163,1409,static/uploads/dres_2000006.txt,,0.968999981880188,Performance
-"The non-licensed operators reported that the meters and gauges were functioning properly, and no unusual noises or sounds were coming from the diesel.",117,1409,1559,static/uploads/dres_2000006.txt,,,
-The reactor operators concluded that control power had been lost and continued to run the SBO diesel after consultation with engineering and maintenance staff.,117,1559,1718,static/uploads/dres_2000006.txt,,,
-"At approximately 3:21 a.m., a decision was made to secure the SBO diesel due to the receipt of more alarms and loss of all SBO diesel indications except frequency, voltage, current and rpms.",117,1718,1908,static/uploads/dres_2000006.txt,,,
-"In preparation for shutting down the diesel, a non-licensed operator was staged at the output breaker to prevent motorizing the generator in case the output breaker did not open.",117,1908,2086,static/uploads/dres_2000006.txt,,,
-The licensee's attempts to shut down the SBO diesel with normal emergency shut down methods were unsuccessful.,117,2086,2196,static/uploads/dres_2000006.txt,,,
-The operators also unsuccessfully attempted to trip the DG by shutting off the diesel's fuel supply by closing the fuel racks.,117,2196,2322,static/uploads/dres_2000006.txt,,,
-"During this attempt, unexpected SBO diesel sounds were noted.",117,2322,2383,static/uploads/dres_2000006.txt,,,
-The output breaker automatically tripped on an over current/over speed condition before operators could open it.,117,2383,2495,static/uploads/dres_2000006.txt,,,
-Licensee Investigation The licensee's investigation concluded that the apparent cause of the Unit 2 SBO event was the failure of the SBO building's ventilation system.,117,2495,2662,static/uploads/dres_2000006.txt,,0.9344000220298767,Planning
-"As a result, the high room temperature tripped the 24VDC power supply for the control power circuitry.",117,2662,2764,static/uploads/dres_2000006.txt,,,
-This 24VDC power supply also powered the reverse power trip relay and the generator loss of excitation trip relay.,117,2764,2878,static/uploads/dres_2000006.txt,,,
-"Since these relays were power-to-trip type relays, neither the trip logic nor control annunciator logic was actuated.",117,2878,2995,static/uploads/dres_2000006.txt,,,
-The operators did not realize that 10,117,2995,3032,static/uploads/dres_2000006.txt,,,
-the diesel was motoring at that point.,119,0,39,static/uploads/dres_2000006.txt,,,
-"In addition, the licensee determined that negative training had been given to the operators with respect to disregarding the SBO diesel display since the display had been historically unreliable.",119,39,234,static/uploads/dres_2000006.txt,,,
-The licensee inspected the diesel generator for possible damage.,119,234,298,static/uploads/dres_2000006.txt,,,
-No apparent damage was found.,119,298,327,static/uploads/dres_2000006.txt,,0.9934999942779541,Procedural&Team
-The licensee also prepared a temporary modification that wired open the SBO building primary dampers.,119,327,428,static/uploads/dres_2000006.txt,,0.9265000224113464,Planning
-"Operator Actions During the event, several operator performance issues were revealed.",119,428,513,static/uploads/dres_2000006.txt,,,
-Operators showed weaknesses in their knowledge and understanding of the SBO diesel logic and how the loss of control power affected diesel operations.,119,513,663,static/uploads/dres_2000006.txt,,0.9944999814033508,Procedural&Team
-"The operators did not believe the control room indications, and failed to validate the indications with other indications that monitored the same SBO diesel parameters.",119,663,831,static/uploads/dres_2000006.txt,,0.9156000018119812,Communication
-The licensee has taken several action items to address these issues.,119,831,899,static/uploads/dres_2000006.txt,,,
-The inoperability of the SBO diesel generator had very low input to the risk of core damage which remained very low because the two other emergency diesel generators were available.,119,899,1080,static/uploads/dres_2000006.txt,,,
-1R23 Temporary Plant Modifications (71111.23) a.,119,1080,1128,static/uploads/dres_2000006.txt,,,
-"Inspection Scope The inspectors reviewed the licensee's plans, safety evaluations, and schedule for on-line installation of a modification that jumpered the 2C moisture separator high water level switch out of the automatic trip logic for the main turbine.",119,1128,1384,static/uploads/dres_2000006.txt,,,
-"As part of this review, the inspectors reviewed Design Change Package 9900478 ""2C Moisture Separator Level Switch"".",119,1384,1499,static/uploads/dres_2000006.txt,,,
-b.,119,1499,1501,static/uploads/dres_2000006.txt,,,
-Issues and Findings There were no findings identified and documented during this inspection activity.,119,1501,1602,static/uploads/dres_2000006.txt,,,
-4.,119,1602,1604,static/uploads/dres_2000006.txt,,,
-Other Activities,119,1604,1620,static/uploads/dres_2000006.txt,,,
-"4OA6 Management Meetings .1 Exit Meeting Summary The inspectors presented the inspection results to Mr. W. Lipscomb and other members of licensee management at the conclusion of the inspection on May 8, 2000.",121,0,208,static/uploads/dres_2000006.txt,,0.9890000224113464,Management
-The licensee acknowledged the findings presented.,121,208,257,static/uploads/dres_2000006.txt,,,
-No proprietary information was identified.,121,257,299,static/uploads/dres_2000006.txt,,,
-11,123,0,2,static/uploads/dres_2000006.txt,,,
-"PARTIAL LIST OF PERSONS CONTACTED Licensee D. Ambler, Regulatory Assurance Supervisor I. Barbosa, Maintenance Planning Superintendent G. Bockholdt, IMD Superintendent S. Butterfield, Regulatory Assurance W. Carter, Work Control Superintendent L. Coyle, MMD Superintendent R. Geier, Engineering Programs Supervisor B. Hanson, Shift Operation Superintendent R. Kelly, NRC Coordinator C. Kolotka, Rad Waste Specialist L. Licata, Engineering Administration Supervisor W. Lipscomb, Training Manager J. Ludwig, Executive Assistant J. Messana, Support Services Manager J. Nalewajka, Assessment Manager J. Nishimura, Maintenance Program Supervisor L. Oshier, Lead HP Technician R. Peak, Design Engineering Manager P. Planning, Unit 1Plant Manager B. Rybak, Regulatory Assurance Licensing Engineer J. Yancy, Auxiliary Systems Group Lead NRC M. Ring, Branch Chief D. Smith, Senior Dresden Resident Inspector IDNS R. Zuffa, Illinois Department of Nuclear Safety",125,0,951,static/uploads/dres_2000006.txt,,,
-12,127,0,2,static/uploads/dres_2000006.txt,,,
-"ITEMS OPENED, CLOSED, AND DISCUSSED Opened 50-249/2000006-01 NCV Failure to follow electrical procedure caused Unit 3 reactor scram",129,0,132,static/uploads/dres_2000006.txt,,,
-Discussed 50-249/2000006-01 NCV Failure to follow electrical procedure caused Unit 3 reactor scram,131,0,98,static/uploads/dres_2000006.txt,,,
-LIST OF BASELINE INSPECTIONS PERFORMED The following inspectable area procedures were used to perform inspections during the report period.,133,0,139,static/uploads/dres_2000006.txt,,0.9269999861717224,Planning
-Documented findings are contained in the body of the report.,133,139,199,static/uploads/dres_2000006.txt,,0.9546999931335449,Cognition
-Inspection Procedure Number 71111-04 71111-05 71111-12 71111-13 71111-14 71111-15 71111-16 71111-19 71111-22 71111-23 71153 (none) Title Equipment Alignment Fire Protection Maintenance Rule Implementation Emergent Work Non routine Evolutions Operability Evaluations Operator Workarounds Post Maintenance Testing Surveillance Testing Temporary Plant Modifications Event Follow-up Management Meetings Report Section 1R04 1R05 1R12 1R13 1R14 1R15 1R16 1R19 1R22 1R23 4OA3 4OA5,133,199,672,static/uploads/dres_2000006.txt,,0.9585999846458435,Cognition
-LIST OF ACRONYMS AND INITIALS USED CFR DG IDNS NCV SBO RPS Code of Federal Regulations Diesel Generator Illinois Department of Nuclear Safety non-cited violation station blackout reactor protection system,135,0,204,static/uploads/dres_2000006.txt,,0.9549000263214111,Management
-13,137,0,2,static/uploads/dres_2000006.txt,,,
+UNITED STATES NUCLEAR REGULATORY COMMISSION,0,0,43,static/uploads/ML11097A031.txt,,,
+"REGION III 2443 WARRENVILLE ROAD, SUITE 210 LISLE, IL 60532-4352",1,0,64,static/uploads/ML11097A031.txt,,0.9954000115394592,Procedural&Team
+"OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION April 4, 2011 Mr. Tom Kirwin Vice-President, Operations (Acting) Entergy Nuclear Operations, Inc. Palisades Nuclear Plant 27780 Blue Star Memorial Highway Covert, MI 49043-9530 SUBJECT: PALISADES NUCLEAR PLANT NRC SECURITY BASELINE INSPECTION REPORT 05000255/2011403(DRS)",3,0,320,static/uploads/ML11097A031.txt,,,
+"Dear Mr. Kirwin: On March 4, 2011, the U. S. Nuclear Regulatory Commission (NRC) completed a security baseline inspection at your Palisades Nuclear Plant.",5,0,154,static/uploads/ML11097A031.txt,,,
+The inspection covered one or more of the key attributes of the security cornerstone of the NRC's Reactor Oversight Process.,5,154,278,static/uploads/ML11097A031.txt,,0.9395999908447266,Procedural&Team
+"The enclosed inspection report documents the inspection results, which were discussed on March 4, 2011, with you and other members of your staff.",5,278,423,static/uploads/ML11097A031.txt,,,
+The inspection examined activities conducted under your license as they relate to security and compliance with the Commission's rules and regulations and with the conditions of your license.,5,423,613,static/uploads/ML11097A031.txt,,,
+"The inspector reviewed selected procedures and records, observed activities, and interviewed personnel.",5,613,716,static/uploads/ML11097A031.txt,,,
+"This report documents one NRC-identified finding of very low security significance (i.e., Green as determined by the Physical Protection Significance Determination Process) and associated violation of NRC requirements.",5,716,934,static/uploads/ML11097A031.txt,,,
+"The deficiencies were promptly corrected or compensated for, and the plant was in compliance with applicable physical protection and security requirements within the scope of this inspection before the inspector left the site.",5,934,1160,static/uploads/ML11097A031.txt,,0.9968000054359436,Performance
+"The one finding had a cross-cutting aspect in the area of Human Performance, Decision Making (H.1(b)), because the licensee failed to conduct effectiveness reviews of safety significant decisions to verify the validity of the underlying assumptions and identify possible unintended consequences.",5,1160,1455,static/uploads/ML11097A031.txt,,,
+The NRC is treating this violation as Non-Cited Violations (NCV) consistent with Section 2.3.2 of the NRC Enforcement Policy because of the very low security significance of the violation and because it was entered into your corrective action program.,5,1455,1706,static/uploads/ML11097A031.txt,,,
+"Additionally, two licensee-identified violations, which were determined to be of very low security significance, are listed in this report.",5,1706,1845,static/uploads/ML11097A031.txt,,,
+The NRC is treating these violations a NCVs consistent with Section 2.3.2 of the NRC Enforcement Policy because of the very low security significance of the violations and because they were entered into your corrective action program.,5,1845,2079,static/uploads/ML11097A031.txt,,,
+Enclosure contains Sensitive Unclassified Non-Safeguards Information.,6,0,69,static/uploads/ML11097A031.txt,,,
+"When separated from enclosure, this transmittal document is decontrolled.",6,69,142,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,8,0,48,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,10,0,49,static/uploads/ML11097A031.txt,,,
+T. Kirwin -2-,11,0,13,static/uploads/ML11097A031.txt,,,
+"If you contest the subject or severity of an NCV, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U. S. Nuclear Regulatory Commission, ATTN.",13,0,215,static/uploads/ML11097A031.txt,,0.9979000091552734,Procedural&Team
+": Document Control Desk, Washington DC 20555-0001; with a copy to the Regional Administrator, U. S. Nuclear Regulatory Commission ­ Region III, 2443 Warrenville Road, Suite 210, Lisle, IL 60532-4352; the Director, Office of Enforcement, U. S. Nuclear Regulatory Commission, Washington, DC 20555- 0001; and the Resident Inspector Office at the Palisades Nuclear Plant.",13,215,582,static/uploads/ML11097A031.txt,,,
+"In addition, if you disagree with the cross cutting aspect assigned to the finding in this report, you should provide a response within 30 days of the date of this inspection report, with the basis for your disagreement, to the Regional Administrator, Region III, and the NRC Resident Inspector at the Palisades Nuclear Plant.",13,582,908,static/uploads/ML11097A031.txt,,0.9684000015258789,Management
+"In accordance with 10 CFR 2.390 of the NRC's ""Rules of Practice,"" a copy of this letter will be available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records System (PARS) component of NRC's document system, ADAMS.",13,908,1178,static/uploads/ML11097A031.txt,,0.9836999773979187,Procedural&Team
+ADAMS is accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room).,13,1178,1301,static/uploads/ML11097A031.txt,,,
+"However, because of the security-related concerns contained in the enclosure, and in accordance with 10 CFR 2.390, a copy of this letter's enclosure will not be available for public inspection.",13,1301,1494,static/uploads/ML11097A031.txt,,,
+"In accordance with 10 CFR 2.390(b)(1)(ii), the NRC is waiving the affidavit requirements for your response, if any.",13,1494,1609,static/uploads/ML11097A031.txt,,,
+"This practice will ensure that your response will not be made available electronically for public inspection in the NRC Public Document Room or from the NRC's document system, ADAMS.",13,1609,1791,static/uploads/ML11097A031.txt,,0.9692999720573425,Procedural&Team
+"If Safeguards Information is necessary to provide an acceptable response, please provide the level of protection described in 10 CFR 73.21.",13,1791,1930,static/uploads/ML11097A031.txt,,,
+"Otherwise, mark your entire response ""Security-Related Information-Withhold Under 10 CFR 2.390"" and follow the instructions for withholding in 10 CFR 2.390(b)(1).",13,1930,2092,static/uploads/ML11097A031.txt,,,
+"Should you have any questions concerning this inspection, we will be pleased to discuss them with you.",13,2092,2194,static/uploads/ML11097A031.txt,,,
+"Sincerely, /RA/ Richard A. Skokowski, Chief Plant Support Branch Division of Reactor Safety Docket No.",13,2194,2296,static/uploads/ML11097A031.txt,,0.9678000211715698,Org-Coordination
+50-255 License No.,13,2296,2314,static/uploads/ML11097A031.txt,,,
+DPR-20 Nonpublic Enclosure: Inspection Report 05000255/2011403(DRS) w/Attachment: Supplemental Information DISTRIBUTION: See next page,13,2314,2448,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,15,0,48,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,17,0,49,static/uploads/ML11097A031.txt,,,
+"Letter to Tom Kirwin from Richard A. Skokowski dated April 4, 2011.",18,0,67,static/uploads/ML11097A031.txt,,,
+"SUBJECT: PALISADES NUCLEAR PLANT NRC SECURITY BASELINE INSPECTION REPORT 05000255/2011403(DRS) S. Coker, NSIR/DSO/DDSO/ST C. Johnson, NSIR J. Trapp, Region I M. Ernstes, RII M. Shannon, RIV K. Yale, State Liaison Officer, State of Michigan Distribution via ListServ",18,67,332,static/uploads/ML11097A031.txt,,0.9092000126838684,Procedural&Team
+cc w/encl:,20,0,10,static/uploads/ML11097A031.txt,,,
+cc w/o encl:,22,0,12,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,24,0,48,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,26,0,49,static/uploads/ML11097A031.txt,,,
+"T. Kirwin -2If you contest the subject or severity of an NCV, you should provide a response within 30 days of the date of this inspection report, with the basis for your denial, to the U. S. Nuclear Regulatory Commission, ATTN.",27,0,227,static/uploads/ML11097A031.txt,,0.9969000220298767,Procedural&Team
+": Document Control Desk, Washington DC 20555-0001; with a copy to the Regional Administrator, U. S. Nuclear Regulatory Commission ­ Region III, 2443 Warrenville Road, Suite 210, Lisle, IL 60532-4352; the Director, Office of Enforcement, U. S. Nuclear Regulatory Commission, Washington, DC 20555- 0001; and the Resident Inspector Office at the Palisades Nuclear Plant.",27,227,594,static/uploads/ML11097A031.txt,,,
+"In addition, if you disagree with the cross cutting aspect assigned to the finding in this report, you should provide a response within 30 days of the date of this inspection report, with the basis for your disagreement, to the Regional Administrator, Region III, and the NRC Resident Inspector at the Palisades Nuclear Plant.",27,594,920,static/uploads/ML11097A031.txt,,0.9684000015258789,Management
+"In accordance with 10 CFR 2.390 of the NRC's ""Rules of Practice,"" a copy of this letter will be available electronically for public inspection in the NRC Public Document Room or from the Publicly Available Records System (PARS) component of NRC's document system, ADAMS.",27,920,1190,static/uploads/ML11097A031.txt,,0.9836999773979187,Procedural&Team
+ADAMS is accessible from the NRC Web site at http://www.nrc.gov/reading-rm/adams.html (the Public Electronic Reading Room).,27,1190,1313,static/uploads/ML11097A031.txt,,,
+"However, because of the security-related concerns contained in the enclosure, and in accordance with 10 CFR 2.390, a copy of this letter's enclosure will not be available for public inspection.",27,1313,1506,static/uploads/ML11097A031.txt,,,
+"In accordance with 10 CFR 2.390(b)(1)(ii), the NRC is waiving the affidavit requirements for your response, if any.",27,1506,1621,static/uploads/ML11097A031.txt,,,
+"This practice will ensure that your response will not be made available electronically for public inspection in the NRC Public Document Room or from the NRC's document system, ADAMS.",27,1621,1803,static/uploads/ML11097A031.txt,,0.9692999720573425,Procedural&Team
+"If Safeguards Information is necessary to provide an acceptable response, please provide the level of protection described in 10 CFR 73.21.",27,1803,1942,static/uploads/ML11097A031.txt,,,
+"Otherwise, mark your entire response ""Security-Related Information-Withhold Under 10 CFR 2.390"" and follow the instructions for withholding in 10 CFR 2.390(b)(1).",27,1942,2104,static/uploads/ML11097A031.txt,,,
+"Should you have any questions concerning this inspection, we will be pleased to discuss them with you.",27,2104,2206,static/uploads/ML11097A031.txt,,,
+"Sincerely, /RA/ Richard A. Skokowski, Chief Plant Support Branch Division of Reactor Safety Docket No.",27,2206,2308,static/uploads/ML11097A031.txt,,0.9678000211715698,Org-Coordination
+50-255 License No.,27,2308,2326,static/uploads/ML11097A031.txt,,,
+DPR-20 Nonpublic Enclosure: Inspection Report 05000255/2011403(DRS) w/Attachment: Supplemental Information DISTRIBUTION: See next page SEE PREVIOUS CONCURRENCES,27,2326,2486,static/uploads/ML11097A031.txt,,,
+DOCUMENT NAME: G:\DRSIII\DRS\Work in Progress\PAL 2011 403 DRS OUO - Cover Letter.docx  Publicly Available  Non-Publicly Available  Sensitive  Non-Sensitive,29,0,156,static/uploads/ML11097A031.txt,,,
+"To receive a copy of this document, indicate in the concurrence box ""C"" = Copy without attach/encl ""E"" = Copy with attach/encl ""N"" = No copy",30,0,140,static/uploads/ML11097A031.txt,,,
+OFFICE NAME DATE,32,0,16,static/uploads/ML11097A031.txt,,,
+RIII GHansen:co 03/31/11,34,0,24,static/uploads/ML11097A031.txt,,,
+RIII DFunk 03/31/11,36,0,19,static/uploads/ML11097A031.txt,,,
+RIII RSkokowski 04/05/11,38,0,24,static/uploads/ML11097A031.txt,,,
+OFFICIAL RECORD COPY,40,0,20,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,42,0,48,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,44,0,49,static/uploads/ML11097A031.txt,,,
+"Letter to Mr. Tom Kirwin from Mr. Richard A. Skokowski dated April 4, 2011.",45,0,75,static/uploads/ML11097A031.txt,,,
+"SUBJECT: PALISADES NUCLEAR PLANT NRC SECURITY BASELINE INSPECTION REPORT 05000255/2011403(DRS) S. Coker, NSIR/DSO/DDSO/ST C. Johnson, NSIR J. Trapp, Region I M. Ernstes, RII M. Shannon, RIV K. Yale, State Liaison Officer, State of Michigan Distribution via ListServ",45,75,340,static/uploads/ML11097A031.txt,,0.9092000126838684,Procedural&Team
+cc w/encl:,47,0,10,static/uploads/ML11097A031.txt,,,
+cc w/o encl:,49,0,12,static/uploads/ML11097A031.txt,,,
+DISTRIBUTION: Daniel Merzke RidsNrrPMPalisades Resource RidsNrrDorlLpl3-1 Resource RidsNrrDirsIrib Resource Cynthia Pederson Steven Orth Jared Heck Allan Barker Carole Ariano Linda Linn DRPIII DRSIII Patricia Buckley Tammy Tomczak ROPreports Resource,51,0,250,static/uploads/ML11097A031.txt,,,
+OFFICIAL USE ONLY - SECURITY-RELATED INFORMATION,53,0,48,static/uploads/ML11097A031.txt,,,

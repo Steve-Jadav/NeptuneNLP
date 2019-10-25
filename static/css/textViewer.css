@@ -36,13 +36,3 @@ span.Team&Organization{
 span.Org-Coordination{
     background-color: #b047e5;
 }
-
-.text-viewer {
-  float: left;
-  width:74%;
-  padding:10px;
-  height: 100vh;
-  overflow: auto;
-  overflow-x: hidden;
-  background-color:#E3E6F7;
-}
