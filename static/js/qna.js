@@ -8,15 +8,15 @@ function update_qna_div(data) {
 
 $(document).ready(function () {
 
-
     $('#get_response').on('click', function () {
         var uuid = uuidv4();
         var myFile = $('#QnA_files').prop('files');
         var question = $('#QnA_keywords').val();
         var files = [];
         for (var i = 0; i < myFile.length; i++) {
-            files.push(myFile[i])
+            files.push(myFile[i]);
         }
+
         $('#qna_answer').html('Pending.....');
         files.forEach(function (file) {
 
@@ -30,6 +30,7 @@ $(document).ready(function () {
                         type: 'QnA',
                         question: question
                     }
+
                 )
             }
         })

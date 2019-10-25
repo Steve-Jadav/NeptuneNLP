@@ -14,19 +14,17 @@
 		    <h5 class="card-title">Error Summarization</h5>
 		    <p class="card-text"> Upload reports to view through a summary of errors. </p>
 
-		    <!-- This form will be used to submit the file/files to the server side Python script.
-		    <form action="{{ url_for('summarization_html') }}" method="POST" enctype="multipart/form-data"> -->
-			    <input type="file" multiple="multiple" name="fileInput" id="summarization_files" hidden="hidden"/>
-		 	    <input type="button" id="browse" value="Choose files" class="btn btn-dark btn-sm" style="margin-right:0.5rem;">
-			    <span id="file-text">
+
+			   <input type="file" multiple="multiple" name="fileInput" id="summarization_files" hidden="hidden"/>
+		 	   <input type="button" id="browse" value="Choose files" class="btn btn-dark btn-sm" style="margin-right:0.5rem;">
+			   <span id="file-text">
 				    {% if message %}
 				    	{{message}}
 				    {% else %}
 				    	No file chosen yet
 				    {% endif %}
 			    </span>
-				<!--<input type="submit" id="processButton" value="Process" class="btn btn-dark btn-sm" style="margin-left:0.5rem;">
-			</form> -->
+
 
 			<!-- Radio buttons -->
 			<div class="col-12" style="margin-top: 1rem;">
@@ -90,7 +88,7 @@
 
 	<!-- Badge string -->
 	<center><div id="summary_tags"></div></center>
-	
+
 
 		<div class="Container">
     <div class="col-12">
@@ -188,7 +186,6 @@
 
 
     var socket = io.connect('http://' + document.domain + ':' + location.port);
-		// The below written socket functions do no execute. Ask shashank!
 		socket.on('connect', function () {
         socket.emit('connected');
     });

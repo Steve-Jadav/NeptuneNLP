@@ -79,7 +79,9 @@ def network_analysis_html():
 
 @app.route("/qna")
 def qna_html():
-	return render_template('qna.html', title='QnA')
+    t2 = threading.Thread(target=request_thread_reader)
+    t2.start()
+    return render_template('qna.html', title='QnA')
 
 
 # This route is used to redirect the user in case a page requested is not found on the server.
@@ -108,31 +110,27 @@ def disconnect():
 
 
 def request_thread_reader():
-
     while True:
         if task_queue.qsize():
             task = task_queue.get()
             if task['sid'] in clients:
                 if task['type'] == 'summarize':
                     if task['summary_type'] == 'page_rank':
-                        task['summary'] = summarize_page_rank(task['text'],
-                                                              keywords=task['keywords'] if 'keywords' in task else [],
-                                                              n=task['n'])
+                        task['summary'] = summarize_page_rank(task['text'],keywords=task['keywords'] if 'keywords' in task else [], n=task['n'])
                     else:
-                        task['summary'] = summarize_tf(task['text'],
-                                                       keywords=task['keywords'] if 'keywords' in task else [],
-                                                       count=task['n'])
+                        task['summary'] = summarize_tf(task['text'], keywords=task['keywords'] if 'keywords' in task else [], count=task['n'])
                     del task['text']
-                elif task['type'] == 'QnA':
+                elif task['type'] == 'QnA': 
+                    print (task['question'])
                     task['answer'] = get_response(task['text'], task['question'])
 
                 sid = task['sid']
                 del task['sid']
                 socketio.emit('message', task, room=sid)
             task_queue.task_done()
-
         else:
             time.sleep(1)
+
 
 
 
