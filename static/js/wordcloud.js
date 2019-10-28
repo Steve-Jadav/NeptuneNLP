@@ -1,6 +1,6 @@
 /* This script is used to generate the wordcloud on the classification page. */
 
-// TO-DO: REDUCE THE SIZES OF THE CLASSES IN THE WORDCLOUD
+
 /*  ======================= SETUP ======================= */
 
 var config = {
@@ -43,15 +43,6 @@ for(i=0;i<a.length;i++) {
     words.push({word: word, freq: freq});
 }
 
-// var words = Object.values(arr).map(function(key) {
-//     console.log(key)
-//     return {
-//
-//         word: key,
-//         freq: key
-//     }
-// })
-
 
 
 words.sort(function(a, b) {
@@ -79,16 +70,33 @@ var wordsDown = [];
 
 
 
-
 /* =======================  PLACEMENT FUNCTIONS =======================  */
 function createWordObject(word, freq) {
 
     var wordContainer = document.createElement("div");
     wordContainer.style.position = "absolute";
-    wordContainer.style.fontSize = freq/2 + "px";
-    console.log('changed frequencies');
+    
+    if (freq >= 40) {
+      console.log("Frequency >= 40");
+      console.log(freq);
+      wordContainer.style.fontSize = "37px";
+    }
+    else if (freq < 40 && freq >= 30) {
+      wordContainer.style.fontSize = "30px";
+    }
+    else if (freq < 30 && freq >= 20) {
+      wordContainer.style.fontSize = "22px";
+    }
+    else if (freq < 20 && freq >= 10){
+      wordContainer.style.fontSize = "18px";
+    }
+    else {
+      wordContainer.style.fontSize = "15px";
+    }
+    
     wordContainer.style.lineHeight = config.lineHeight;
-//    wordContainer.style.transform = "translateX(-50%) translateY(-50%)"
+ // wordContainer.style.transform = "translateX(-50%) translateY(-50%);"
+    
     switch (word){
          case "Cognition": wordContainer.style.color = "#4286f4";
              break;
@@ -117,6 +125,7 @@ function createWordObject(word, freq) {
          default: wordContainer.style.color = "#fc5dc7";
 
     }
+    
     wordContainer.appendChild(document.createTextNode(word));
 
     return wordContainer;
@@ -132,8 +141,8 @@ function placeWord(word, x, y) {
 }
 
 function trace(x, y) {
-//     traceCanvasCtx.lineTo(x, y);
-//     traceCanvasCtx.stroke();
+//  traceCanvasCtx.lineTo(x, y);
+//  traceCanvasCtx.stroke();
     traceCanvasCtx.fillRect(x, y, 1, 1);
 }
 
@@ -172,8 +181,6 @@ function intersect(word, x, y) {
 
 
 
-
-/* =======================  LETS GO! =======================  */
 (function placeWords() {
 
     for (var i = 0; i < words.length; i += 1) {
@@ -193,8 +200,6 @@ function intersect(word, x, y) {
         }
     }
 })();
-/* ======================= WHEW. THAT WAS FUN. We should do that again sometime ... ======================= */
-
 
 
 /* =======================  Draw the placement spiral if trace lines is on ======================= */
