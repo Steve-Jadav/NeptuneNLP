@@ -1,4 +1,3 @@
-
 from IR_Text_Viz.prep import Preprocess
 from IR_Text_Viz.lstm_model import Classifier_LSTM
 import multiprocessing
@@ -39,7 +38,6 @@ class Views(object):
             total += len(group)
             classes[key] = len(group)
 
-        # Todo: Cap the values for classes[x] somewhere in this range [1, 27]
         for x in classes:
             print ('classes[x]: ', classes[x])
             classes[x] = classes[x] * 100 / total
