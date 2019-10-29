@@ -2,7 +2,7 @@ predictor_requests = {};
 
 function update_qna_div(data) {
     console.log(data);
-    data['text'] = data['text'].replaceAll(data['answer']['best_span_str'], '<span style="background-color: yellow">' + data['answer']['best_span_str'] + '</span>')
+    data['text'] = data['text'].replace(data['answer']['best_span_str'], '<span style="background-color: yellow">' + data['answer']['best_span_str'] + '</span>')
     $('#qna_answer').html('<p>' + data['text'] + '</p>')
 }
 
