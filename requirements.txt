@@ -14,7 +14,7 @@ tables==3.6.1
 
 # Deep Learning and NLP
 keras==2.3.1
-tensorflow==1.15.0
+tensorflow==1.15.2
 nltk==3.4.5
 word2number==1.1
 allennlp==0.8.3
