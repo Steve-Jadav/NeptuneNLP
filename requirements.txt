@@ -1,6 +1,6 @@
 # Scientific computing
 pandas==0.25.1
-numpy==1.17.2
+numpy==1.22.0
 networkx==2.3
 re==2.2.1
 regex==2.5.64
